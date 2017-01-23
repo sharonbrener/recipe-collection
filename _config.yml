@@ -8,7 +8,11 @@ collections:
   uploads:
     title: Uploads
     output: true
-
+  recipes:
+    title: recipes
+    output: true
+  defaults:
+    
     #basic layout template
     - scope:
         path: ''
