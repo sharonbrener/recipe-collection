@@ -1,6 +1,5 @@
 ---
 title: Recipes
-timezone: UTC
 collections:
   posts:
     title: Posts
@@ -20,7 +19,7 @@ collections:
       layout: basic
       image: ''
       tags: []
-      
+
   #recipe layout emplate
   - scope:
       path: ''
