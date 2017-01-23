@@ -1,6 +1,5 @@
 ---
 title: Recipes
-timezone: America/Chicago
 collections:
   posts:
     title: Posts
@@ -13,8 +12,8 @@ collections:
     output: true
   defaults:
 
-    #basic layout template
-    - scope:
+    -
+      scope:
         path: ""
         type: posts
       values:
@@ -22,8 +21,8 @@ collections:
         image: ""
         tags: []
 
-    #recipe layout template
-    - scope:
+    -
+      scope:
         path: ""
         type: posts
       values:
