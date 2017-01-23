@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <link rel="stylesheet" href="assets/stylesheet.css">
+  <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+</head>
+
+
+<body>
+
+<!-- Header -->
+
+{% include header.html %}
+
+<div class="content">
+
+  <!-- Post image -->
+
+      {% if page.image != "" %}
+          <div class="image"><img src="/{{ page.image }}" width="720px"></div>
+      {% endif %}
+
+  <!-- Page title -->
+
+      <h1> {{ page.title }} </h1>
+
+  <!-- Tags -->
+
+        <h5 class="tags">
+          {% for tag in page.tags %}
+              <a href="#">{{ tag }}</a>
+              {% if forloop.last != true %}
+                  &nbsp;
+              {% endif %}
+          {% endfor %}
+        </h5>
+
+  <!-- Yield + source -->
+
+      <h4><strong>{{ page.yield }}</strong>
+          <br />
+      From <a href="{{ page.sourceURL }}">{{ page.source }}</a> {{ page.sourceAuthor }}</h4>
+
+  <!-- Author + personal quotes -->
+
+      <blockquote class="authorNote">{{ page.authorNote }}</blockquote>
+      <blockquote class="personalNote">{{ page.personalNote }}</blockquote>
+
+  <!-- Time breakdown -->
+
+      <div class="time-breakdown">
+        <h3>Total time <strong>{{ page.totalTime }}</strong></h3>
+        <h4>
+          {% if page.prepTime != "" %}
+            Prep time <strong>{{ page.prepTime }}</strong><span class="time-notlast"> | </span>
+          {% endif %}
+          {% if page.handsoffTime != "" %}
+            Hands-off time <strong>{{ page.handsoffTime }}</strong><span class="time-notlast"> | </span>
+          {% endif %}
+          {% if page.cookTime != "" %}
+            Cook time <strong>{{ page.cookTime }}</strong><span class="time-notlast"> | </span>
+          {% endif %}
+          {% if page.chillTime != "" %}
+            Chill time <strong>{{ page.chillTime }}</strong><span class="time-notlast"> | </span>
+          {% endif %}
+          {% if page.assemblyTime != "" %}
+            Assembly time <strong>{{ page.assemblyTime }}</strong><span class="time-notlast"> | </span>
+          {% endif %}
+          {% if page.reheatTime != "" %}
+            Reheat time <strong>{{ page.reheatTime }}</strong><span class="time-notlast"> | </span>
+          {% endif %}
+        </h4>
+      </div>
+
+<!-- Ingredient list -->
+
+    <div class="ingredients">
+      <p>{{ page.ingredients }}</p>
+    </div>
+
+<!-- Method as body content -->
+
+    <div class="method">
+      {{content}}
+    </div>
+
+
+</div> <!-- end content div -->
+
+  <!-- Footer -->
+
+{% include footer.html %}
+
+</body>
+</html>

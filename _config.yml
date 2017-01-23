@@ -11,4 +11,35 @@ collections:
   recipes:
     title: recipes
     output: true
-Contact email: hi@sharonbrener.com
+
+    #basic layout template
+    - scope:
+        path: ''
+        type: posts
+      values:
+        layout: basic
+        image: ''
+        tags: []
+
+    #recipe layout template
+    - scope:
+        path: ''
+        type: posts
+      values:
+        layout: recipe
+        image: ''
+        tags: []
+        source: "[site name or book name]"
+        sourceURL: ''
+        sourceAuthor: by [Author], p[n]
+        yield: Makes []
+        authorNote: ''
+        personalNote: ''
+        totalTime: ''
+        prepTime: ''
+        handsoffTime: ''
+        cookTime: ''
+        chillTime: ''
+        assemblyTime: ''
+        reheatTime: ''
+        ingredients: "⅛ ¼ ⅓ ½ ⅔ ¾ fractions"
