@@ -1,5 +1,6 @@
 ---
 title: Recipes
+timezone: America/Chicago
 collections:
   posts:
     title: Posts
@@ -10,36 +11,34 @@ collections:
   recipes:
     title: Recipes
     output: true
-  defaults:
+defaults:
 
-    -
-      scope:
-        path: ""
-        type: posts
-      values:
-        layout: default
-        image: ""
-        tags: []
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: recipe
+      image: ''
+      tags: []
+      source: "[site name or book name]"
+      sourceURL: ''
+      sourceAuthor: by [Author], p[n]
+      yield: Makes []
+      authorNote: ''
+      personalNote: ''
+      totalTime: ''
+      prepTime: ''
+      handsoffTime: ''
+      cookTime: ''
+      chillTime: ''
+      assemblyTime: ''
+      reheatTime: ''
+      ingredients: "⅛ ¼ ⅓ ½ ⅔ ¾ fractions"
 
-    -
-      scope:
-        path: ""
-        type: posts
-      values:
-        layout: recipe
-        image: ""
-        tags: []
-        source: "[site name or book name]"
-        sourceURL: ""
-        sourceAuthor: by [Author], p[n]
-        yield: Makes []
-        authorNote: ""
-        personalNote: ""
-        totalTime: ""
-        prepTime: ""
-        handsoffTime: ""
-        cookTime: ""
-        chillTime: ""
-        assemblyTime: ""
-        reheatTime: ""
-        ingredients: "⅛ ¼ ⅓ ½ ⅔ ¾ fractions"
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: default
+      image: ''
+      tags: []
