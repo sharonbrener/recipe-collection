@@ -12,9 +12,10 @@ collections:
     title: Uploads
     output: true
 defaults:
+
 - scope:
     path: ''
-    type: posts
+    type: recipes
   values:
     layout: recipe
     image: ''
@@ -33,6 +34,7 @@ defaults:
     assemblyTime: ''
     reheatTime: ''
     ingredients: "⅛ ¼ ⅓ ½ ⅔ ¾ fractions"
+
 - scope:
     path: ''
     type: posts
