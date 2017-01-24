@@ -1,6 +1,6 @@
 ---
 title: All tags
-layout: tag-index
+layout: tag_index
 ---
 
 ## These are all the tags for recipe collection

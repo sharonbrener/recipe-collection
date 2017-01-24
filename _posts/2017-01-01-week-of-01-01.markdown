@@ -1,10 +1,12 @@
 ---
-title: Week of 01-01
+title: Week of 01/01
 date: 2017-01-01 21:41:00 -06:00
-layout: default
+layout: weekly-list
+tags:
+- weekly-list
 ---
 
-## Starting off the new year right with a new tradition. 
+## Starting off the new year right with a new tradition.
 
 **Beef bulgogi with baby bok choy** I had originally planned to make this with stuck-pot rice, but that seemed like too much work without leftover rice... Will plan better next time.
 

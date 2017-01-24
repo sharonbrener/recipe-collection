@@ -1,6 +1,9 @@
 ---
-title: Week of 01-08
+title: Week of 01/08
 date: 2017-01-08 21:43:00 -06:00
+layout: weekly-list
+tags:
+- weekly-list
 ---
 
 **Instant Pot chicken stock** Using bones and skin from a rotisserie chicken (because we're still a little bit lazy, but we still deserve nice things); next time I'll wait until more bones accumulate.

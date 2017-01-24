@@ -1,6 +1,7 @@
 ---
-title: Week of 01-22
+title: Week of 01/22
 date: 2017-01-23 21:44:00 -06:00
+layout: weekly-list
 ---
 
 **Chocolate chip walnut banana bread** Started the weekend off right with this recipe from [What to Bake and How to Bake It](http://janehornby.com/what-to-bake-and-how-to-bake-it/) (a wonderful Half-Price Books find). Hate to say it, but it gives Deb's Jacked Up Banana Bread a run for it's money...especially day two.
