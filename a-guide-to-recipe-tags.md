@@ -13,7 +13,7 @@ My recipe template is based off of the entities on [https://schema.org/Recipe](h
 These will likely become broader categories, at some point.
 
 *   `breakfast`
-* 	`brunch`
+*   `brunch`
 *   `lunch`
 *   `dinner`
 *   `dessert`
