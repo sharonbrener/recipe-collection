@@ -64,7 +64,7 @@ Fold one corner diagonally across to the other, pressing air out as you seal it 
 
 **Note: Once formed, wontons can be refrigerated for up to a day or frozen for a month or longer.**
 
-![]({{ site.baseurl }}/assets/chicken-wonton-soup_INPROGRESS.jpg)
+![]({{ site.baseurl }}assets/chicken-wonton-soup_INPROGRESS.jpg)
 
 Repeat with remaining wontons. I found that after I’d made a couple and got the hang of it, I could lay out 6 at a time and get each batch of 6 done in 2 minutes, meaning that this process took me about 20 minutes total.
 
