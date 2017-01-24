@@ -1,6 +1,8 @@
 ---
 title: A guide to recipe tags
 date: 2017-01-06 18:00:00 -06:00
+tags:
+  Key 1: 
 layout: default
 ---
 
