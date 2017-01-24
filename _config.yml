@@ -12,7 +12,6 @@ collections:
     title: Uploads
     output: true
 defaults:
-  
 - scope:
     path: ''
     type: pages
@@ -20,7 +19,6 @@ defaults:
     layout: default
     image: ''
     tags: []
-
 - scope:
     path: ''
     type: recipes
