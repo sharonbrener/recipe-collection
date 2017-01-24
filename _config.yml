@@ -12,8 +12,6 @@ collections:
     title: Uploads
     output: true
 defaults:
-
-# default post
 - scope:
     path: ''
     type: posts
@@ -21,8 +19,6 @@ defaults:
     layout: default
     image: ''
     tags: []
-
-# default pages
 - scope:
     path: ''
     type: pages
@@ -30,8 +26,6 @@ defaults:
     layout: default
     image: ''
     tags: []
-
-# recipe
 - scope:
     path: ''
     type: recipes
@@ -53,8 +47,6 @@ defaults:
     assemblyTime: ''
     reheatTime: ''
     ingredients: "⅛ ¼ ⅓ ½ ⅔ ¾ fractions"
-
-# weekly list
 - scope:
     path: ''
     type: posts
