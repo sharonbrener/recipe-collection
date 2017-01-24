@@ -1,5 +1,5 @@
 ---
-title: Week of Jan 01
+title: Week of 01-01
 date: 2017-01-01 21:41:00 -06:00
 ---
 
