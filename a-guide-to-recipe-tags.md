@@ -33,7 +33,7 @@ These will likely become broader categories, at some point.
 *   `jewish`
 *   `mediterranean`
 *   `mexican`
-* 	`morrocan`
+* 	`moroccan`
 *   `latin`
 *	`southern`
 *	`modern`
