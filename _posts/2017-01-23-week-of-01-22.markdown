@@ -1,6 +1,8 @@
 ---
 title: Week of 01/22
 date: 2017-01-23 21:44:00 -06:00
+tags:
+- weekly-list
 layout: weekly-list
 ---
 
