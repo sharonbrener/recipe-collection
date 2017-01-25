@@ -17,12 +17,14 @@ collections:
     slug: recipes
   my_tags:
     output: true
+    permalink: "/recipes/:path"
+    slug: tags
+  uploads:
+    title: Uploads
+    output: true
     permalink: /tag/:name
 
-
 defaults:
-
-  # default post type
 - scope:
     path: ''
     type: posts
@@ -30,8 +32,6 @@ defaults:
     layout: default
     image: ''
     tags: []
-
-  # default page type
 - scope:
     path: ''
     type: pages
@@ -39,8 +39,6 @@ defaults:
     layout: default
     image: ''
     tags: []
-
-  # recipe template
 - scope:
     path: ''
     type: recipes
