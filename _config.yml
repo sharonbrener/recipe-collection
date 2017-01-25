@@ -2,11 +2,6 @@
 title: Recipes
 timezone: America/Chicago
 collections:
-  my_tags:
-    title: My Tags
-    output: true
-    permalink: "/recipes/:path"
-    slug: tags
   posts:
     title: Posts
     output: true
@@ -18,7 +13,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-    permalink: "/tag/:name"
 defaults:
 - scope:
     path: ''
