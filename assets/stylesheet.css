@@ -7,8 +7,9 @@
 	05 RECIPE LIST ITEM
 */
 
-
+/*-----------------------------*/
 /*  00 FONTS AND COLORS  */
+/*-----------------------------*/
 
 /*  FONTS FROM GOOGLE
 		Open Sans
@@ -34,19 +35,25 @@
 		Light gray: #f1f3f7;
 */
 
-
+/*-----------------------------*/
 /*  01 BASIC STYLES  */
+/*-----------------------------*/
 
 html {
 	font-size: 16px;
 }
 body {
-	max-width: 45rem;
 	margin: auto;
 	font-family: 'Open Sans', sans-serif;
 	color: #515967;
 	font-weight: 400;
 	}
+
+#page-layout {
+	/* applies to everything below header.html and above footer.html */
+	max-width: 45rem;
+	margin: auto;
+}
 
 p {
 	font-family: 'Merriweather', serif;
@@ -120,27 +127,38 @@ code.highlighter-rouge {
     border-radius: 0.125rem;
 	}
 
-
+/*-----------------------------*/
 /*  02 HEADER + NAV + CONTENT BLOCK + FOOTER  */
+/*-----------------------------*/
 
 /* HEADER.HTML*/
 
-.header-content {
+#header-content {
 	width: 100%;
 	color: #c07c12;
 	text-transform: uppercase;
 	font-size: 0.875rem;
 	font-weight: 600;
-	margin-top: 2.5rem;
+	padding: 1rem;
 	margin-bottom: 5rem;
-	text-align: center;
+	background-color: #515967;
+	/*padding: 1rem;*/
+	overflow: hidden;
 	}
 
-.header-content .site-title {
-	font-size: 2.25rem;
-	font-weight: 700;
-	text-transform: none;
-	margin-bottom: .75rem;
+#header-content .header-left {
+	display: block;
+	float: left;
+	width: 12rem;
+	background-color: #102255;
+}
+
+#header-content .header-right {
+	display: block;
+	float: left;
+	text-align: right;
+	background-color: #f1f3f7;
+	overflow: hidden;
 }
 
 .header-content a {
@@ -161,11 +179,16 @@ content {
 /* FOOTER.HTML */
 
 .footer-content {
-	margin-top: 2.5rem;
-	opacity: 0.8;
+	margin-top: 10rem;
+	margin-bottom: 0rem;
+	opacity: 0.6;
+	text-align: center;
+	height: 3rem;
 	}
 
+/*-----------------------------*/
 /*  03 HOVER ANIMATION  */
+/*-----------------------------*/
 
 a:before {
   content: "";
@@ -189,7 +212,9 @@ a:hover:before {
   transform: scaleX(1);
 }
 
+/*-----------------------------*/
 /*  04 RECIPE PAGE ELEMENTS  */
+/*-----------------------------*/
 
 .image {
 	width: 100%;
@@ -255,7 +280,9 @@ a:hover:before {
 	font-weight: 700;
 	}
 
+-----------------------------
 /*  05 RECIPE LIST ITEM */
+-----------------------------
 
 .recipe-list-item
 	{} /* this is the div */
