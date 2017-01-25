@@ -2,28 +2,23 @@
 title: Recipes
 timezone: America/Chicago
 collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-
-  # custom collections for recipes and tags
-  recipes:
-    title: Recipes
-    output: true
-    permalink: /recipes/:path
-    slug: recipes
   my_tags:
+    title: My Tags
     output: true
     permalink: "/recipes/:path"
     slug: tags
+  posts:
+    title: Posts
+    output: true
+  recipes:
+    title: Recipes
+    output: true
+    permalink: "/recipes/:path"
+    slug: recipes
   uploads:
     title: Uploads
     output: true
-    permalink: /tag/:name
-
+    permalink: "/tag/:name"
 defaults:
 - scope:
     path: ''
