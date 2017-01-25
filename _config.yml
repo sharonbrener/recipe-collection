@@ -5,12 +5,21 @@ collections:
   posts:
     title: Posts
     output: true
-  recipes:
-    title: Recipes
-    output: true
   uploads:
     title: Uploads
     output: true
+
+  # custom collections for recipes and tags
+  recipes:
+    title: Recipes
+    output: true
+    permalink: /recipes/:path
+    slug: recipes
+  my_tags:
+    output: true
+    permalink: /tag/:name
+
+
 defaults:
 
   # default post type
