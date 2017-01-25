@@ -10,6 +10,7 @@ tags:
 - soup
 - chicken
 - dumplings
+position: 2
 image: "/uploads/chicken-wonton-soup.jpg"
 source: Smitten Kitchen
 sourceURL: https://smittenkitchen.com/2017/01/chicken-wonton-soup/
