@@ -3,7 +3,8 @@
 	01 BASIC STYLES
 	02 HEADER + NAV + CONTENT BLOCK + FOOTER
 	03 HOVER ANIMATION
-	04 RECIPE ELEMENTS
+	04 RECIPE PAGE ELEMENTS
+	05 RECIPE LIST ITEM
 */
 
 
@@ -188,7 +189,7 @@ a:hover:before {
   transform: scaleX(1);
 }
 
-/*  04 RECIPE ELEMENTS  */
+/*  04 RECIPE PAGE ELEMENTS  */
 
 .image {
 	width: 100%;
@@ -198,8 +199,13 @@ a:hover:before {
 	display: block;
 	}
 
+.recipe-title {
+	margin-bottom: 1rem;
+}
+
 .tags {
 	font-weight: 600;
+	margin-top: 0;
 	}
 
 .authorNote {
@@ -248,3 +254,19 @@ a:hover:before {
 .method h3 {
 	font-weight: 700;
 	}
+
+/*  05 RECIPE LIST ITEM */
+
+.recipe-list-item
+	{} /* this is the div */
+
+	.recipe-list-item h3 {
+		margin-top: 3rem;
+		margin-bottom: 1rem;
+	}
+
+.recipe-list-summary {
+	margin-top: 0;
+	margin-bottom: 1rem;
+	font-style: italic;
+}

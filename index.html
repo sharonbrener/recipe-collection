@@ -1,0 +1,34 @@
+---
+title: Index
+date: 2017-01-23 16:28:00 -06:00
+layout: default
+---
+
+# Use your imagination.
+
+### This is a short intro.
+
+Here is a list of all the recipes.
+
+Look, there's a search box, and all the tags.
+
+<div class="recipe-list-item">
+{% for recipe in site.recipes %}
+  <h3><a href="{{recipe.url}}">{{ recipe.title }}</a></h3>
+
+  <!-- yield + truncated content -->
+  <p class="recipe-list-summary">
+    {{ recipe.content | strip_html | truncatewords: 31 }}
+  </p>
+
+  <!-- Tags sorted alphabetically-->
+      <h5 class="tags">
+        {% assign sortedtags = recipe.tags | sort %}
+        {% for tag in sortedtags %}
+            <a href="{{tag.url }}">{{ tag }}</a>
+            {% if forloop.last != true %}
+                &nbsp;
+            {% endif %}
+        {% endfor %}
+      </h5>
+{% endfor %}
