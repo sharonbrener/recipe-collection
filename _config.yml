@@ -12,6 +12,8 @@ collections:
     title: Uploads
     output: true
 defaults:
+
+  # default post type
 - scope:
     path: ''
     type: posts
@@ -19,6 +21,8 @@ defaults:
     layout: default
     image: ''
     tags: []
+
+  # default page type
 - scope:
     path: ''
     type: pages
@@ -26,6 +30,8 @@ defaults:
     layout: default
     image: ''
     tags: []
+
+  # recipe template
 - scope:
     path: ''
     type: recipes
