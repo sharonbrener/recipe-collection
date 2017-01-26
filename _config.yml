@@ -3,6 +3,9 @@ title: Recipes
 timezone: America/Chicago
 collections:
   posts:
+    title: Posts
+    output: true
+  "-categories-title":
     title: Recipes
     output: true
   uploads:
