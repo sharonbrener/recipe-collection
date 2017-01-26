@@ -24,7 +24,7 @@ defaults:
     image: ''
     tags: []
 - scope:
-    path: 'recipes'
+    path: recipes
     type: posts
   values:
     layout: recipe
