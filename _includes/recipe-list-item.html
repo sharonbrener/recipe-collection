@@ -1,8 +1,11 @@
 <h3><a href="{{recipe.url}}">{{ post.title }}</a></h3>
-
 <p class="recipe-list-summary">
   <span class="tags">{{post.totalTime}}</span> | {{post.yield}}<br />
-  <em>{{ post.personalNote | strip_html | truncate: 160 }}</em>
+  <em>
+    {% if post.personalNote != "" %}
+    {{ post.personalNote | strip_html | truncate: 155 }}
+    {% endif %}
+  </em>
 </p>
 
 <h5 class="tags">

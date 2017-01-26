@@ -294,12 +294,14 @@ span.small {
 	opacity: 0.6;
 }
 
-.recipe-list-item
-	{} /* this is the div */
+.recipe-list-item {
+		width: 90%;
+	} /* this is the div */
 
 	.recipe-list-item h3 {
 		margin-top: 3rem;
 		margin-bottom: 0.5rem;
+		padding: 0;
 	}
 
 .recipe-list-summary {
