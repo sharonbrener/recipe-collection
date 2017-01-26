@@ -3,7 +3,7 @@ title: Recipes
 timezone: America/Chicago
 collections:
   posts:
-    title: Posts
+    title: Recipes
     output: true
   uploads:
     title: Uploads
