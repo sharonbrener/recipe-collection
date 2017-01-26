@@ -29,6 +29,7 @@ ingredients: |2-
     12 oz semi sweet choc chips
     1 tsp vanilla extract
     Flaky sea salt, for serving
+layout: recipe
 ---
 
 ### To prep
