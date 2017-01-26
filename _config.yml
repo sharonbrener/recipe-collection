@@ -10,7 +10,7 @@ collections:
     output: true
 defaults:
 - scope:
-    path: 
+    path: ''
     type: posts
   values:
     layout: recipe
