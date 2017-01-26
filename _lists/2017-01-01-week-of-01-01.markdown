@@ -3,7 +3,7 @@ title: Week of 01/01
 date: 2017-01-01 21:41:00 -06:00
 tags:
 - weekly-list
-layout: weekly-list
+layout: list
 ---
 
 ## Starting off the new year right with a new tradition.
