@@ -9,8 +9,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-  weekly-lists:
-    title: Weekly Lists
+  lists:
+    title: Lists
     output: true
     permalink: none
 defaults:
@@ -39,7 +39,7 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: weekly-list
+    layout: list
     image: ''
     tags: []
 - scope:
