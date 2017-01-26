@@ -1,0 +1,16 @@
+<h3><a href="{{recipe.url}}">{{ post.title }}</a></h3>
+
+<p class="recipe-list-summary">
+  <span class="tags">{{post.totalTime}}</span> | {{post.yield}}<br />
+  <em>{{ post.personalNote | strip_html | truncate: 160 }}</em>
+</p>
+
+<h5 class="tags">
+  {% assign sortedtags = post.tags | sort %}
+  {% for tag in sortedtags %}
+      <a href="/tag/{{tag}}">{{ tag }}</a>
+      {% if forloop.last != true %}
+          &nbsp;
+      {% endif %}
+  {% endfor %}
+</h5>

@@ -1,14 +1,37 @@
 ---
 layout: default
+title:
 ---
 
-<h1>{{page.title}}</h1>
+<h1><span style="font-weight: 400;">All recipes tagged</span> {{page.tag}}</h1>
+<h5>
+  <a href="/">All recipes</a> &nbsp;
+  <a href="/a-guide-to-recipe-tags.html">A guide to recipe tags</a>
+</h5>
+<br />
 
-<ul>{% for post in site.posts %}{% for tag in post.tags %}{% if tag == page.tag %}
-  <li>
-    <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%d/%m/%Y"}}</time>
-    <a href='{{post.url}}'>{{post.title}}</a>
-  </li>{% endif %}{% endfor %}{% endfor %}
-</ul>
+{% for post in site.posts %}
+  {% for tag in post.tags %}
+    {% if tag == page.tag %}
 
-<p><a href="/tags/">View all tags</a></p>
+  {% include recipe-list-item.html %}
+
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+
+<!-- Recipe list items from index.html -->
+<!-- <h3><a href="{{recipe.url}}">{{ post.title }}</a></h3>
+<p class="recipe-list-summary">
+  {{ post.content | strip_html | truncate: 160 }}
+</p>
+<h5 class="tags">
+  {% assign sortedtags = post.tags %}
+  {% for tag in sortedtags %}
+      <a href="{{tag.url }}">{{ tag }}</a>
+      {% if forloop.last != true %}
+          &nbsp;
+      {% endif %}
+  {% endfor %}
+</h5> -->

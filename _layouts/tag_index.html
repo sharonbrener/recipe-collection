@@ -4,8 +4,11 @@ title: All the tags
 ---
 
 <h1>{{page.title}}</h1>
-<p><span class="small"><a href="/recipe/">View all recipes</a> | <a href="/a-guide-to-recipe-tags.html">A guide to recipe tags</a><span></p>
-
+<h5>
+  <a href="/">All recipes</a> &nbsp;
+  <a href="/a-guide-to-recipe-tags.html">A guide to recipe tags</a>
+</h5>
+<br />
 
 {% for tag in site.tags %}
   <p>
@@ -13,5 +16,4 @@ title: All the tags
     <span class="small">{{ tag[1].size }}</span>
     <br />
   </p>
-
 {% endfor %}

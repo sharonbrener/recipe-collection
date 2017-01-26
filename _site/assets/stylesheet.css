@@ -299,11 +299,10 @@ span.small {
 
 	.recipe-list-item h3 {
 		margin-top: 3rem;
-		margin-bottom: 1rem;
+		margin-bottom: 0.5rem;
 	}
 
 .recipe-list-summary {
 	margin-top: 0;
-	margin-bottom: 1rem;
-	font-style: italic;
+	margin-bottom: 0.75rem;
 }
