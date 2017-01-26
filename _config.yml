@@ -10,21 +10,7 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ''
-    type: posts
-  values:
-    layout: default
-    image: ''
-    tags: []
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: default
-    image: ''
-    tags: []
-- scope:
-    path: recipes
+    path: 
     type: posts
   values:
     layout: recipe
@@ -44,6 +30,20 @@ defaults:
     assemblyTime: ''
     reheatTime: ''
     ingredients: "⅛ ¼ ⅓ ½ ⅔ ¾ fractions"
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: default
+    image: ''
+    tags: []
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: default
+    image: ''
+    tags: []
 - scope:
     path: week-of
     type: posts
