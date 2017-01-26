@@ -45,7 +45,7 @@ defaults:
     reheatTime: ''
     ingredients: "⅛ ¼ ⅓ ½ ⅔ ¾ fractions"
 - scope:
-    path: 'week-of'
+    path: week-of
     type: posts
   values:
     layout: weekly-list
