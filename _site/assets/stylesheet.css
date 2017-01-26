@@ -4,7 +4,7 @@
 	02 HEADER + NAV + CONTENT BLOCK + FOOTER
 	03 HOVER ANIMATION
 	04 RECIPE PAGE ELEMENTS
-	05 RECIPE LIST ITEM
+	05 LIST ITEMS
 */
 
 /*-----------------------------*/
@@ -286,8 +286,13 @@ a:hover:before {
 	}
 
 -----------------------------
-/*  05 RECIPE LIST ITEM */
+/*  05 LIST ITEMS */
 -----------------------------
+
+span.small {
+	font-size: 80%;
+	opacity: 0.6;
+}
 
 .recipe-list-item
 	{} /* this is the div */

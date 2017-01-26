@@ -5,9 +5,14 @@ collections:
   posts:
     title: Posts
     output: true
+    permalink: none
   uploads:
     title: Uploads
     output: true
+  weekly-lists:
+    title: Weekly Lists
+    output: true
+    permalink: none
 defaults:
 - scope:
     path: ''
@@ -31,6 +36,13 @@ defaults:
     reheatTime: ''
     ingredients: "⅛ ¼ ⅓ ½ ⅔ ¾ fractions"
 - scope:
+    path:
+    type: posts
+  values:
+    layout: weekly-list
+    image: ''
+    tags: []
+- scope:
     path: ''
     type: posts
   values:
@@ -42,12 +54,5 @@ defaults:
     type: pages
   values:
     layout: default
-    image: ''
-    tags: []
-- scope:
-    path: week-of
-    type: posts
-  values:
-    layout: weekly-list
     image: ''
     tags: []

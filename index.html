@@ -7,17 +7,17 @@ layout: default
 <h2>Recipe index</h2>
 
 <div class="recipe-list-item">
-{% for recipe in site.recipes %}
-  <h3><a href="{{recipe.url}}">{{ recipe.title }}</a></h3>
+{% for post in site.posts %}
+  <h3><a href="{{recipe.url}}">{{ post.title }}</a></h3>
 
   <!-- yield + truncated content -->
   <p class="recipe-list-summary">
-    {{ recipe.content | strip_html | truncatewords: 31 }}
+    {{ post.content | strip_html | truncatewords: 31 }}
   </p>
 
   <!-- Tags sorted alphabetically-->
       <h5 class="tags">
-        {% assign sortedtags = recipe.tags | sort %}
+        {% assign sortedtags = post.tags | sort %}
         {% for tag in sortedtags %}
             <a href="{{tag.url }}">{{ tag }}</a>
             {% if forloop.last != true %}
