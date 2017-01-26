@@ -8,21 +8,21 @@ layout: default
 
 <div class="recipe-list-item">
 {% for post in site.posts %}
-  <h3><a href="{{recipe.url}}">{{ post.title }}</a></h3>
+    <h3><a href="{{recipe.url}}">{{ post.title }}</a></h3>
 
-  <!-- yield + truncated content -->
-  <p class="recipe-list-summary">
-    {{ post.content | strip_html | truncatewords: 31 }}
-  </p>
+    <!-- Truncated content -->
+    <p class="recipe-list-summary">
+      {{ post.content | strip_html | truncate: 160 }}
+    </p>
 
-  <!-- Tags sorted alphabetically-->
-      <h5 class="tags">
-        {% assign sortedtags = post.tags | sort %}
-        {% for tag in sortedtags %}
-            <a href="{{tag.url }}">{{ tag }}</a>
-            {% if forloop.last != true %}
-                &nbsp;
-            {% endif %}
-        {% endfor %}
-      </h5>
+    <!-- Tags sorted alphabetically-->
+        <h5 class="tags">
+          {% assign sortedtags = post.tags | sort %}
+          {% for tag in sortedtags %}
+              <a href="{{tag.url }}">{{ tag }}</a>
+              {% if forloop.last != true %}
+                  &nbsp;
+              {% endif %}
+          {% endfor %}
+        </h5>
 {% endfor %}
