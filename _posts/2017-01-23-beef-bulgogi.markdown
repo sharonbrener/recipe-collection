@@ -1,8 +1,9 @@
 ---
 title: Beef Bulgogi
 date: 2017-01-23 17:27:00 -06:00
+layout: recipe
 categories:
-- dinner
+- recipe
 tags:
 - asian
 - weeknight
@@ -12,6 +13,7 @@ tags:
 - marinade
 - soy
 - sesame
+- dinner
 position: 1
 image: ''
 source: All Recipes

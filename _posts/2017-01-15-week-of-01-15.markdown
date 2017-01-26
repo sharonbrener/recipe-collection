@@ -1,9 +1,25 @@
 ---
 title: Week of 01/15
 date: 2017-01-15 21:44:00 -06:00
+layout: default
+categories:
+- menu
 tags:
-- weekly-list
-layout: list
+- lasagna
+- bake
+- poppyseed
+- russian
+- italian
+- tomato
+- pasta
+- chickpea
+- tofu
+- broccoli
+- asian
+- gnocchi
+- brown-butter
+- cauliflower
+summary: Skillet lasagna, Old World poppyseed rolls, and quick dinners from elements we've already prepped 👍
 ---
 
 **Skillet lasagna** I made this last week and it was such a hit that even before it was gone, I made another one. Great for lunches.

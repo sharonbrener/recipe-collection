@@ -5,7 +5,7 @@ collections:
   posts:
     title: Posts
     output: true
-    permalink: /recipe/:title.html
+    permalink: /:categories/:title.html
   uploads:
     title: Uploads
     output: true
@@ -39,16 +39,10 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: list
-    image: ''
-    tags: []
-- scope:
-    path: ''
-    type: posts
-  values:
     layout: default
     image: ''
     tags: []
+    summary: ''
 - scope:
     path: ''
     type: pages

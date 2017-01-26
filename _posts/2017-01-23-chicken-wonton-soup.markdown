@@ -1,8 +1,9 @@
 ---
 title: Chicken Wonton Soup
 date: 2017-01-23 17:27:00 -06:00
+layout: recipe
 categories:
-- dinner
+- recipe
 tags:
 - asian
 - weeknight
@@ -10,6 +11,7 @@ tags:
 - soup
 - chicken
 - dumplings
+- dinner
 position: 2
 image: "/uploads/chicken-wonton-soup.jpg"
 source: Smitten Kitchen
