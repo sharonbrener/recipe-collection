@@ -6,11 +6,13 @@ title: All the tags
 <h1>{{page.title}}</h1>
 {% include index-menu.html %}
 <br />
-
-{% for tag in site.tags %}
-  <p>
-    <a href="/tag/{{ tag[0] }}">{{ tag[0] }}</a>
-    <span class="small">{{ tag[1].size }}</span>
-    <br />
-  </p>
-{% endfor %}
+<div class="tag-list">
+  {% assign sortedtags = site.tags | sort %}
+  {% for tag in sortedtags %}
+    <p>
+      <a href="/tag/{{ tag[0] }}">{{ tag[0] }}</a>
+      <span class="small">{{ tag[1].size }}</span>
+      <br />
+    </p>
+  {% endfor %}
+</div>

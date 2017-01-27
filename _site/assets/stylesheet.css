@@ -303,9 +303,9 @@ a:hover:before {
 /*  05 LIST ITEMS */
 -----------------------------
 
-span.small {
-	font-size: 80%;
-	opacity: 0.6;
+.small {
+	font-size: 60%;
+	opacity: 0.4;
 }
 
 .recipe-list-item {
@@ -321,4 +321,19 @@ span.small {
 .recipe-list-summary {
 	margin-top: 0;
 	margin-bottom: 0.75rem;
+}
+
+.tag-list {
+	columns: 3;
+	overflow: hidden;
+	margin: auto;
+	height: 40rem;
+}
+
+.tag-list > p:first-child {
+      margin: 0;
+		}
+
+.time-yield {
+	opacity: 0.5;
 }

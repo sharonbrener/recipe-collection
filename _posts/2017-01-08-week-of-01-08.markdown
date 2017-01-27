@@ -12,10 +12,8 @@ tags:
 - leek
 - asian
 - soup
-- eggs
-- frittata
 - dumplings
-summary: My first foray into making chicken stock in the Instant Pot (using rotisserie chicken as a shortcut), plus chicken wonton soup.
+summary: My first foray into making chicken stock in the Instant Pot (using rotisserie chicken as a shortcut), plus chicken wonton soup, which may or may not have been the entire reason for making chicken stock in the first place...
 ---
 
 **Instant Pot chicken stock** Using bones and skin from a rotisserie chicken (because we're still a little bit lazy, but we still deserve nice things); next time I'll wait until more bones accumulate.

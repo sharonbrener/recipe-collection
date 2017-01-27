@@ -1,14 +1,14 @@
-<h3><a href="{{post.url}}">{{ post.title }}</a></h3>
+<h3><a href="{{post.url}}">{{ post.title | truncate: 52 }}</a></h3>
 <p class="recipe-list-summary">
 
   <!-- for recipe posts -->
     {% if post.totalTime != "" %}
-      <span class="tags">{{post.totalTime}}</span> | {{post.yield}}<br />
+      <span class="time-yield"><span class="tags">{{post.totalTime}}</span> | {{post.yield}}</span><br />
     {% endif %}
   <em>
     <!-- for recipe posts -->
     {% if post.personalNote != "" %}
-    {{ post.personalNote | strip_html | truncate: 155 }}
+    {{ post.personalNote | strip_html | truncate: 145 }}
     {% endif %}
     <!-- for posts other than recipes -->
     {% if post.summary != "" %}
