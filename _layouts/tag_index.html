@@ -4,10 +4,7 @@ title: All the tags
 ---
 
 <h1>{{page.title}}</h1>
-<h5>
-  <a href="/">All recipes</a> &nbsp;
-  <a href="/a-guide-to-recipe-tags.html">A guide to recipe tags</a>
-</h5>
+{% include index-menu.html %}
 <br />
 
 {% for tag in site.tags %}
