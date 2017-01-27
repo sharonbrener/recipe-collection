@@ -7,7 +7,7 @@ categories:
 tags:
 - breakfast
 - russian
-- saute
+- fry
 - weekend
 - fall
 - family

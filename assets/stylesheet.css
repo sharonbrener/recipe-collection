@@ -325,9 +325,8 @@ a:hover:before {
 
 .tag-list {
 	columns: 3;
-	overflow: hidden;
 	margin: auto;
-	height: 40rem;
+	height: 30rem;
 }
 
 .tag-list > p:first-child {

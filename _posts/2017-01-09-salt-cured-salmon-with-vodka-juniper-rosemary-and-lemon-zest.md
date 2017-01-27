@@ -5,19 +5,18 @@ layout: recipe
 categories:
 - recipe
 tags:
-- breakfast
+- brunch
 - jewish
 - russian
 - cure
 - make-ahead
 - diy-project
 - salmon
-layout: recipe
 image: ''
 source: Feasting at Home
 sourceURL: http://www.feastingathome.com/salt-cured-salmon-with-juniper-and-vodka/
 sourceAuthor: ''
-yield: Yield depends on the amount of salmon, anywhere from ½ lb to 2 lb.
+yield: Yield depends on salmon weight, anywhere from ½ to 2 lb.
 authorNote: This is not the lox I grew up with, but this salty, lemony cured salmon
   is subtler and doesn't require much more than a few days of patience and fridge
   space.

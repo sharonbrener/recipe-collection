@@ -9,6 +9,9 @@ tags:
 - make-ahead
 - chocolate
 - dessert
+- vegan
+- gluten-free
+- dairy-free
 source: My Dish is Bomb
 sourceURL: http://mydishisbomb.com/easy-vegan-fudge/
 yield: Makes one 6x6 baking dish
