@@ -3,9 +3,10 @@
 
   <!-- for recipe posts -->
     {% if post.totalTime != "" %}
-      <span class="time-yield"><span class="tags">{{post.totalTime}}</span> | {{post.yield}}</span><br />
+      <span class="tags">{{post.totalTime}}</span> | {{post.yield}}<br />
     {% endif %}
   <em>
+    <span class="faded">
     <!-- for recipe posts -->
     {% if post.personalNote != "" %}
     {{ post.personalNote | strip_html | truncate: 145 }}
@@ -14,6 +15,7 @@
     {% if post.summary != "" %}
     {{ post.summary | strip_html | truncate: 150 }}
     {% endif %}
+  </span>
   </em>
 </p>
 
