@@ -1,7 +1,7 @@
 ---
 title: Week of 01/15
 date: 2017-01-15 21:44:00 -06:00
-layout: default
+layout: menu
 categories:
 - menu
 tags:

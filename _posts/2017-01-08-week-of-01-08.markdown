@@ -1,7 +1,7 @@
 ---
 title: Week of 01/08
 date: 2017-01-08 21:43:00 -06:00
-layout: default
+layout: menu
 categories:
 - menu
 tags:

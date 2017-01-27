@@ -3,7 +3,7 @@ title: Week of 01/01
 date: 2017-01-01 21:41:00 -06:00
 categories:
 - menu
-layout: default
+layout: menu
 tags:
 - beef
 - asian
@@ -14,7 +14,7 @@ tags:
 - gnocchi
 - make-ahead
 - bake
-summary: Beef bulgogi with baby bok choy, a new roasted chicken dish to try, poached pears, and a double-batch of gnocchi to fill the freezer. 
+summary: Beef bulgogi with baby bok choy, a new roasted chicken dish to try, poached pears, and a double-batch of gnocchi to fill the freezer.
 
 ---
 
