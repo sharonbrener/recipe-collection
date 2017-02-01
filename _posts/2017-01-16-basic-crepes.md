@@ -12,6 +12,7 @@ tags:
 - quick
 - basics
 - make-ahead
+- crepe
 image: ''
 source: All Recipes
 sourceURL: http://allrecipes.com/recipe/16383/basic-crepes/

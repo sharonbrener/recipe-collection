@@ -13,6 +13,8 @@ tags:
 - make-ahead
 - family
 - diy-project
+- gnocchi
+- ricotta
 image: ''
 source: ''
 sourceURL: ''

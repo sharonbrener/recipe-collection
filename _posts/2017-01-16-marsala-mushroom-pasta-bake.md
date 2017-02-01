@@ -13,7 +13,7 @@ tags:
 - fall
 - winter
 - pasta
-- mushrooms
+- mushroom
 - wine
 - hard cheese
 - vegetarian

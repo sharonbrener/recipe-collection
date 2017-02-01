@@ -13,7 +13,7 @@ tags:
 - quick
 - stew
 - pasta
-- chickpeas
+- chickpea
 - to-do
 image: ''
 source: Food 52 Genius Recipes
