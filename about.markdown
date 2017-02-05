@@ -4,7 +4,7 @@ date: 2017-01-23 16:33:00 -06:00
 layout: default
 ---
 
-# Hello, friend.
+# 👋 Hello there.
 
 ## This is a grand experiment.
 

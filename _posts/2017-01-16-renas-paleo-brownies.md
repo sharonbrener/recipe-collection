@@ -14,7 +14,7 @@ tags:
 - brownie
 - chocolate
 - liqueur
-- dates
+- date
 image: ''
 source: Rena
 sourceURL: ''
