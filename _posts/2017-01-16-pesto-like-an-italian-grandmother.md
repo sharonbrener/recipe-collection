@@ -1,7 +1,6 @@
 ---
 title: Pesto Like an Italian Grandmother
-date: 2017-01-16 22:43:39 -6:00
-layout: recipe
+date: 2017-01-16 22:43:39 -06:00
 categories:
 - recipe
 tags:
@@ -16,6 +15,7 @@ tags:
 - basil
 - garlic
 - to-do
+layout: recipe
 image: ''
 source: 100 Cookbooks
 sourceURL: http://www.101cookbooks.com/archives/001570.html

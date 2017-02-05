@@ -1,7 +1,6 @@
 ---
 title: Rena's Ricotta Gnocchi, Three Ways
-date: 2017-01-16 23:56:26 -6:00
-layout: recipe
+date: 2017-01-16 23:56:26 -06:00
 categories:
 - recipe
 tags:
@@ -15,6 +14,7 @@ tags:
 - diy-project
 - gnocchi
 - ricotta
+layout: recipe
 image: ''
 source: ''
 sourceURL: ''

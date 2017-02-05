@@ -1,7 +1,6 @@
 ---
 title: Rena's Paleo Brownies
 date: 2017-01-16 23:47:48 -06:00
-layout: recipe
 categories:
 - recipe
 tags:
@@ -15,6 +14,7 @@ tags:
 - chocolate
 - liqueur
 - date
+layout: recipe
 image: ''
 source: Rena
 sourceURL: ''

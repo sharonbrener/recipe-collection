@@ -1,7 +1,6 @@
 ---
 title: Ina Garten's Chocolate Cake
-date: 2017-01-16 19:16:14 -6:00
-layout: recipe
+date: 2017-01-16 19:16:14 -06:00
 categories:
 - recipe
 tags:
@@ -14,6 +13,7 @@ tags:
 - cake
 - buttercream
 - to-do
+layout: recipe
 image: ''
 source: Food Network
 sourceURL: http://www.foodnetwork.com/recipes/ina-garten/beattys-chocolate-cake-recipe.html

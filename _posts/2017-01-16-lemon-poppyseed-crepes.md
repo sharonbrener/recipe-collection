@@ -1,7 +1,6 @@
 ---
 title: Lemon Poppyseed Crepes
-date: 2017-01-16 23:03:56 -6:00
-layout: recipe
+date: 2017-01-16 23:03:56 -06:00
 categories:
 - recipe
 tags:
@@ -12,6 +11,7 @@ tags:
 - crepe
 - lemon
 - poppyseed
+layout: recipe
 image: ''
 source: Joy the Baker
 sourceURL: http://joythebaker.com/2016/08/lemon-poppy-seed-crepes-with-blueberry-curd/

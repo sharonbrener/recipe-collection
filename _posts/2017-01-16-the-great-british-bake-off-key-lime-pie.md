@@ -1,7 +1,6 @@
 ---
 title: The Great British Bake-Off Key Lime Pie
-date: 2017-01-16 20:26:44 -6:00
-layout: recipe
+date: 2017-01-16 20:26:44 -06:00
 categories:
 - recipe
 tags:
@@ -14,6 +13,7 @@ tags:
 - pie
 - lime
 - ginger
+layout: recipe
 image: ''
 source: BBC's The Great British Bake-Off
 sourceURL: http://www.bbc.co.uk/food/recipes/key_lime_pie_53484

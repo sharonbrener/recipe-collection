@@ -1,7 +1,6 @@
 ---
 title: Moules a la Mariniere
-date: 2017-01-07 19:13:51 -6:00
-layout: recipe
+date: 2017-01-07 19:13:51 -06:00
 categories:
 - recipe
 tags:
@@ -11,12 +10,13 @@ tags:
 - dinner
 - weeknight
 - french
+layout: recipe
 image: assets/moules-a-la-mariniere.jpg
 source: Smitten Kitchen
 sourceURL: https://smittenkitchen.com/2006/08/flexing-my-food-neuroses-and-also-mussels/
 sourceAuthor: adapted from Julia Child by Deb Perelman
 yield: Serves two, but can be adapted to more
-authorNote: 'Serve with pomme frites.'
+authorNote: Serve with pomme frites.
 personalNote: The original recipe calls for 6 quarts of mussels, but really 1 lb of
   bivalves per person seems like a good rule. Sub in clams if you're feeling cray.
 totalTime: 35 min

@@ -1,7 +1,6 @@
 ---
 title: Vanilla Coconut Chia Seed Pudding
-date: 2017-01-16 19:55:37 -6:00
-layout: recipe
+date: 2017-01-16 19:55:37 -06:00
 categories:
 - recipe
 tags:
@@ -16,6 +15,7 @@ tags:
 - vanilla
 - raspberry
 - lemon
+layout: recipe
 image: ''
 source: Mint Love Social Club
 sourceURL: http://www.mintlovesocialclub.com/2014/04/chia-seed-pudding-3-ways.html

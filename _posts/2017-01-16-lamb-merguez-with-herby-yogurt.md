@@ -1,7 +1,6 @@
 ---
 title: Lamb Merguez with Herby Yogurt
-date: 2017-01-16 22:54:14 -6:00
-layout: recipe
+date: 2017-01-16 22:54:14 -06:00
 categories:
 - recipe
 tags:

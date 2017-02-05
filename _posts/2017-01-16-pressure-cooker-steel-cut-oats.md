@@ -1,7 +1,6 @@
 ---
 title: Pressure Cooker Steel-Cut Oats
-date: 2017-01-16 23:42:32 -6:00
-layout: recipe
+date: 2017-01-16 23:42:32 -06:00
 categories:
 - recipe
 tags:
@@ -12,6 +11,7 @@ tags:
 - quick
 - basics
 - oats
+layout: recipe
 image: ''
 source: The Kitchn
 sourceURL: http://www.thekitchn.com/how-to-make-steel-cut-oatmeal-in-the-pressure-cooker-235219

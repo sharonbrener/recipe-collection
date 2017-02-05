@@ -1,7 +1,6 @@
 ---
 title: Salt-Cured Salmon with Vodka, Juniper, Rosemary and Lemon Zest
 date: 2017-01-09 00:00:00 -06:00
-layout: recipe
 categories:
 - recipe
 tags:
@@ -12,6 +11,7 @@ tags:
 - make-ahead
 - diy-project
 - salmon
+layout: recipe
 image: ''
 source: Feasting at Home
 sourceURL: http://www.feastingathome.com/salt-cured-salmon-with-juniper-and-vodka/

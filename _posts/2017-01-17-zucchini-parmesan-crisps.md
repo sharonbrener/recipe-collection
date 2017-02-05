@@ -1,7 +1,6 @@
 ---
 title: Zucchini Parmesan Crisps
-date: 2017-01-17 00:15:20 -6:00
-layout: recipe
+date: 2017-01-17 00:15:20 -06:00
 categories:
 - recipe
 tags:
@@ -13,6 +12,7 @@ tags:
 - zucchini
 - parmesan
 - vegetarian
+layout: recipe
 image: ''
 source: Food Network
 sourceURL: http://www.foodnetwork.com/recipes/ellie-krieger/zucchini-parmesan-crisps-recipe.html

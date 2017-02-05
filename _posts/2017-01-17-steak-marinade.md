@@ -1,7 +1,6 @@
 ---
 title: Steak Marinade
-date: 2017-01-17 00:12:15 -6:00
-layout: recipe
+date: 2017-01-17 00:12:15 -06:00
 categories:
 - recipe
 tags:
@@ -10,6 +9,7 @@ tags:
 - basics
 - marinade
 - beef
+layout: recipe
 image: ''
 source: Food.com
 sourceURL: http://www.food.com/recipe/steak-marinade-quick-and-easy-39145

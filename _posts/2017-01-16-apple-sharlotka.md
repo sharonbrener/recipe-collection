@@ -1,7 +1,6 @@
 ---
 title: Apple Sharlotka
-date: 2017-01-16 00:00:00 -6:00
-layout: recipe
+date: 2017-01-16 00:00:00 -06:00
 categories:
 - recipe
 tags:
@@ -13,6 +12,7 @@ tags:
 - family
 - apple
 - cake
+layout: recipe
 image: ''
 source: Smitten Kitchen
 sourceURL: http://smittenkitchen.com/blog/2012/01/apple-sharlotka/

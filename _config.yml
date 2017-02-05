@@ -2,17 +2,16 @@
 title: Recipes
 timezone: America/Chicago
 collections:
-  posts:
-    title: Posts
-    output: true
-    permalink: /:categories/:title.html
-  uploads:
-    title: Uploads
-    output: true
   lists:
     title: Lists
     output: true
     permalink: none
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''

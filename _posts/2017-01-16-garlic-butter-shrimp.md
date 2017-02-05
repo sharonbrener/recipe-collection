@@ -1,7 +1,6 @@
 ---
 title: Garlic Butter Shrimp
-date: 2017-01-16 20:21:51 -6:00
-layout: recipe
+date: 2017-01-16 20:21:51 -06:00
 categories:
 - recipe
 tags:
@@ -16,6 +15,7 @@ tags:
 - shrimp
 - seafood
 - garlic
+layout: recipe
 image: ''
 source: Once Upon a Chef
 sourceURL: http://www.onceuponachef.com/2014/03/easy-garlic-butter-shrimp.html

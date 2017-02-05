@@ -1,7 +1,6 @@
 ---
 title: Beef Bulgogi
 date: 2017-01-23 17:27:00 -06:00
-layout: recipe
 categories:
 - recipe
 tags:
@@ -15,6 +14,7 @@ tags:
 - sesame
 - dinner
 position: 1
+layout: recipe
 image: ''
 source: All Recipes
 sourceURL: http://allrecipes.com/recipe/100606/beef-bulgogi/

@@ -1,7 +1,6 @@
 ---
 title: Basic Crepes
-date: 2017-01-16 18:38:38 -6:00
-layout: recipe
+date: 2017-01-16 18:38:38 -06:00
 categories:
 - recipe
 tags:
@@ -13,6 +12,7 @@ tags:
 - basics
 - make-ahead
 - crepe
+layout: recipe
 image: ''
 source: All Recipes
 sourceURL: http://allrecipes.com/recipe/16383/basic-crepes/
