@@ -9,7 +9,6 @@ collections:
   posts:
     title: Posts
     output: true
-    permalink: /:categories/:title.html
   uploads:
     title: Uploads
     output: true
