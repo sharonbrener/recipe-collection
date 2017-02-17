@@ -1,7 +1,6 @@
 ---
 title: Sake Steamed Mussels
-date: 2017-01-07 19:07:48 -6:00
-layout: recipe
+date: 2017-01-07 19:07:48 -06:00
 categories:
 - recipe
 tags:
@@ -11,6 +10,7 @@ tags:
 - dinner
 - asian
 - sake
+layout: recipe
 image: assets/sake-steamed-mussels-2.JPG
 source: Love and Lemons
 sourceURL: http://www.loveandlemons.com/2013/02/11/steamy-kitchen-mussels

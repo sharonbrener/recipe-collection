@@ -1,7 +1,6 @@
 ---
 title: Blueberry Curd
-date: 2017-01-16 19:35:51 -6:00
-layout: recipe
+date: 2017-01-16 19:35:51 -06:00
 categories:
 - recipe
 tags:
@@ -12,6 +11,7 @@ tags:
 - gift-idea
 - blueberry
 - curd
+layout: recipe
 image: ''
 source: Joy the Baker
 sourceURL: http://joythebaker.com/2016/08/lemon-poppy-seed-crepes-with-blueberry-curd/

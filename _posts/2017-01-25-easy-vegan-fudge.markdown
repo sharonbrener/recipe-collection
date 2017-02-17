@@ -1,7 +1,6 @@
 ---
 title: Easy Vegan Fudge
 date: 2017-01-25 20:32:00 -06:00
-layout: recipe
 categories:
 - recipe
 tags:
@@ -12,11 +11,17 @@ tags:
 - vegan
 - gluten-free
 - dairy-free
+layout: recipe
 source: My Dish is Bomb
 sourceURL: http://mydishisbomb.com/easy-vegan-fudge/
 yield: Makes one 6x6 baking dish
-authorNote: The texture is almost truffle-like, and closer to dark chocolate than to milk chocolate. Even though the yield in this recipe is small, plan to give some away to friends and family. It’s super addictive and you’ll be popping those fudge squares in your mouth before you realize you’ve eating half the batch.
-personalNote: If you're making this for someone who's actually vegan – as opposed to why we do, just because they taste delicious — make sure you're using vegan chocolate. It's harder to get than you might think, but we find it at Central Market.
+authorNote: The texture is almost truffle-like, and closer to dark chocolate than
+  to milk chocolate. Even though the yield in this recipe is small, plan to give some
+  away to friends and family. It’s super addictive and you’ll be popping those fudge
+  squares in your mouth before you realize you’ve eating half the batch.
+personalNote: If you're making this for someone who's actually vegan – as opposed
+  to why we do, just because they taste delicious — make sure you're using vegan chocolate.
+  It's harder to get than you might think, but we find it at Central Market.
 totalTime: 4 hrs 40 min to overnight
 prepTime: 5 min
 cookTime: 15 min

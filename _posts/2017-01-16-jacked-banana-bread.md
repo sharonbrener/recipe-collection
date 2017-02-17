@@ -1,7 +1,6 @@
 ---
 title: Jacked Banana Bread
-date: 2017-01-16 20:54:29 -6:00
-layout: recipe
+date: 2017-01-16 20:54:29 -06:00
 categories:
 - recipe
 tags:
@@ -12,6 +11,7 @@ tags:
 - banana
 - bread
 - bourbon
+layout: recipe
 image: ''
 source: Smitten Kitchen
 sourceURL: https://smittenkitchen.com/2006/11/speckled-for-the-freckled/

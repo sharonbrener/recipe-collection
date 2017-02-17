@@ -1,7 +1,6 @@
 ---
 title: Hazelnut Truffles
-date: 2017-01-16 20:38:42 -6:00
-layout: recipe
+date: 2017-01-16 20:38:42 -06:00
 categories:
 - recipe
 tags:
@@ -13,6 +12,7 @@ tags:
 - chocolate
 - liqueur
 - hazelnut
+layout: recipe
 image: ''
 source: Smitten Kitchen
 sourceURL: https://smittenkitchen.com/2006/12/mounds-of-awesome/

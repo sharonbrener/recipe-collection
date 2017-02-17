@@ -1,7 +1,6 @@
 ---
 title: Beef Bulgogi
-date: 2017-01-16 19:27:24 -6:00
-layout: recipe
+date: 2017-01-16 19:27:24 -06:00
 categories:
 - recipe
 tags:
@@ -14,6 +13,7 @@ tags:
 - marinade
 - soy
 - sesame
+layout: recipe
 image: ''
 source: All Recipes
 sourceURL: http://allrecipes.com/recipe/100606/beef-bulgogi/

@@ -1,7 +1,6 @@
 ---
 title: Butternut Squash Puree
-date: 2017-01-16 19:46:42 -6:00
-layout: recipe
+date: 2017-01-16 19:46:42 -06:00
 categories:
 - recipe
 tags:
@@ -14,6 +13,7 @@ tags:
 - fall
 - basics
 - squash
+layout: recipe
 image: ''
 source: A New Way to Dinner
 sourceURL: https://www.amazon.com/Food52-New-Way-Dinner-Strategies/dp/0399578005

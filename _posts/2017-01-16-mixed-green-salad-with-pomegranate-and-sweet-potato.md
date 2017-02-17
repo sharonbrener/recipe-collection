@@ -1,7 +1,6 @@
 ---
 title: Mixed Green Salad with Pomegranate and Sweet Potato, Simply Dressed
-date: 2017-01-16 23:08:54 -6:00
-layout: recipe
+date: 2017-01-16 23:08:54 -06:00
 categories:
 - recipe
 tags:
@@ -16,6 +15,7 @@ tags:
 - sweet potato
 - arugula
 - dressing
+layout: recipe
 image: ''
 source: Camille Styles
 sourceURL: http://camillestyles.com/thanksgiving/sweet-potato-pomegranate-seed-salad/

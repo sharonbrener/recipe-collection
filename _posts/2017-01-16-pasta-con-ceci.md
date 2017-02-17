@@ -1,7 +1,6 @@
 ---
 title: Pasta con Ceci
-date: 2017-01-16 23:38:20 -6:00
-layout: recipe
+date: 2017-01-16 23:38:20 -06:00
 categories:
 - recipe
 tags:
@@ -15,6 +14,7 @@ tags:
 - pasta
 - chickpea
 - to-do
+layout: recipe
 image: ''
 source: Food 52 Genius Recipes
 sourceURL: https://food52.com/recipes/66790-victoria-granof-s-pasta-con-ceci

@@ -1,7 +1,6 @@
 ---
 title: Moist Vanilla Cupcakes with Vanilla Buttercream
-date: 2017-01-16 23:16:43 -6:00
-layout: recipe
+date: 2017-01-16 23:16:43 -06:00
 categories:
 - recipe
 tags:
@@ -13,6 +12,7 @@ tags:
 - cake
 - cupcakes
 - buttercream
+layout: recipe
 image: ''
 source: Life, Love, and Sugar
 sourceURL: http://www.lifeloveandsugar.com/2014/04/29/perfect-moist-fluffy-vanilla-cupcakes/)

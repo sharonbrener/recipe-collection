@@ -1,7 +1,6 @@
 ---
 title: Perfect Rice
-date: 2017-01-16 20:45:58 -6:00
-layout: recipe
+date: 2017-01-16 20:45:58 -06:00
 categories:
 - recipe
 tags:
@@ -10,6 +9,7 @@ tags:
 - quick
 - basics
 - rice
+layout: recipe
 image: ''
 source: Instant Pot
 sourceURL: http://instantpot.com/how-to-cook-perfect-rice-in-an-electric-pressure-cooker/

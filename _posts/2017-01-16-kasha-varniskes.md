@@ -1,7 +1,6 @@
 ---
 title: Kasha Varniskes
-date: 2017-01-16 22:47:53 -6:00
-layout: recipe
+date: 2017-01-16 22:47:53 -06:00
 categories:
 - recipe
 tags:
@@ -15,6 +14,7 @@ tags:
 - pasta
 - mushroom
 - vegetarian
+layout: recipe
 image: ''
 source: What Jew Wanna Eat
 sourceURL: http://whatjewwannaeat.com/2012/08/06/kasha-varnishkas/

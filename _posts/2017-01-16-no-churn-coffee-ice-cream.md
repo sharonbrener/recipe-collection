@@ -1,7 +1,6 @@
 ---
 title: No-Churn Coffee Ice Cream
 date: 2017-01-16 23:29:48 -06:00
-layout: recipe
 categories:
 - recipe
 tags:
@@ -14,6 +13,7 @@ tags:
 - ice cream
 - coffee
 - liqueur
+layout: recipe
 image: ''
 source: Genius Recipes
 sourceURL: https://food52.com/recipes/30285-nigella-lawson-s-one-step-no-churn-coffee-ice-cream

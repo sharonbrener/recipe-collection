@@ -1,7 +1,6 @@
 ---
 title: Apple Blinchiki
 date: 2017-01-16 00:00:00 -06:00
-layout: recipe
 categories:
 - recipe
 tags:

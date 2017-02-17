@@ -1,7 +1,6 @@
 ---
 title: Roasted Broccoli with Parmesan
-date: 2017-01-17 00:08:10 -6:00
-layout: recipe
+date: 2017-01-17 00:08:10 -06:00
 categories:
 - recipe
 tags:
@@ -13,6 +12,7 @@ tags:
 - basics
 - broccoli
 - hard cheese
+layout: recipe
 image: ''
 source: Simply Recipes
 sourceURL: http://www.simplyrecipes.com/recipes/roasted_broccoli/

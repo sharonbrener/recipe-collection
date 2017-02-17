@@ -1,7 +1,6 @@
 ---
 title: Kale Pesto
-date: 2017-01-16 21:47:02 -6:00
-layout: recipe
+date: 2017-01-16 21:47:02 -06:00
 categories:
 - recipe
 tags:
@@ -15,6 +14,7 @@ tags:
 - kale
 - pesto
 - pine nuts
+layout: recipe
 image: ''
 source: Hilah Cooking
 sourceURL: http://hilahcooking.com/kale-pesto/

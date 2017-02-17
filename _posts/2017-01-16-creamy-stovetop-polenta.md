@@ -1,7 +1,6 @@
 ---
 title: Creamy Stovetop Polenta
-date: 2017-01-16 20:13:56 -6:00
-layout: recipe
+date: 2017-01-16 20:13:56 -06:00
 categories:
 - recipe
 tags:
@@ -13,6 +12,7 @@ tags:
 - corn
 - polenta
 - parmesan
+layout: recipe
 image: "/assets/creamy-stovetop-polenta.jpg"
 source: The Kitchn
 sourceURL: http://www.thekitchn.com/how-to-make-creamy-stovetop-polenta-cooking-lessons-from-the-kitchn-183740

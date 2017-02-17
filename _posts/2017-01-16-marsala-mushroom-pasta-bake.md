@@ -1,7 +1,6 @@
 ---
 title: Marsala Mushroom Pasta Bake
-date: 2017-01-16 23:23:16 -6:00
-layout: recipe
+date: 2017-01-16 23:23:16 -06:00
 categories:
 - recipe
 tags:
@@ -17,6 +16,7 @@ tags:
 - wine
 - hard cheese
 - vegetarian
+layout: recipe
 image: ''
 source: Smitten Kitchen
 sourceURL: http://smittenkitchen.com/blog/2015/01/mushroom-marsala-pasta-bake/

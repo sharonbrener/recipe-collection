@@ -1,7 +1,6 @@
 ---
 title: Coconut Macaroons
-date: 2017-01-16 20:03:53 -6:00
-layout: recipe
+date: 2017-01-16 20:03:53 -06:00
 categories:
 - recipe
 tags:
@@ -13,6 +12,7 @@ tags:
 - weeknight
 - gift-idea
 - coconut
+layout: recipe
 image: ''
 source: The Kitchn
 sourceURL: http://www.thekitchn.com/how-to-make-easy-coconut-macaroons-cooking-lessons-from-the-kitchn-186918)

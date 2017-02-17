@@ -1,7 +1,6 @@
 ---
 title: Basic Key Lime Pie
-date: 2017-01-16 19:01:48 -6:00
-layout: recipe
+date: 2017-01-16 19:01:48 -06:00
 categories:
 - recipe
 tags:
@@ -12,6 +11,7 @@ tags:
 - make-ahead
 - pie
 - lime
+layout: recipe
 image: ''
 source: Epicurious
 sourceURL: http://www.epicurious.com/recipes/food/views/Key-Lime-Pie-108125
