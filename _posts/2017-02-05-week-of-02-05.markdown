@@ -15,7 +15,6 @@ tags:
 - lamb
 - meatballs
 - asparagus
-
 summary: Today I'm feeling a little too overwhelmed to cook all the things and get all the work done and be truly prepared for the week. Maybe it's the headaches or the allergies or the travels, but keeping it as simple as possible feels right. A big batch of lamb merguez and a bunch of different ways to use it sound like the right way to go.
 ---
 
