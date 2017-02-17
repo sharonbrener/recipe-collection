@@ -1,0 +1,41 @@
+---
+title: Week of 02/05
+date: 2017-02-05 21:44:00 -06:00
+categories:
+- menu
+tags:
+- make-ahead
+- squash
+- steel-cut oats
+- pressure-cook
+- chicken
+- rice
+- pasta
+- lamb
+- meatballs
+- asparagus
+<<<<<<< HEAD
+summary: Today I'm feeling a little too overwhelmed to cook all the things and get all the work done and be truly prepared for the week. Maybe it's the headaches or the allergies or the travels, but keeping it as simple as possible feels right. A big batch of lamb merguez and a bunch of different ways to use it sound like the right way to go.
+=======
+layout: menu
+summary: Today I'm feeling a little too overwhelmed to cook all the things and get
+  all the work done and be truly prepared for the week. Maybe it's the headaches or
+  the allergies or the travels, but keeping it as simple as possible feels right.
+  A big batch of lamb merguez and a bunch of different ways to use it sound like the
+  right way to go.
+>>>>>>> origin/master
+---
+
+**Steel-cut oats** It's been a while, but making 2 cups of these guys to flavor later and enjoy as office breakfasts (and not get tempted by donuts).
+
+**Lamb merguez** Making a triple batch of my favorite [lamb merguez](/posts/2017-01-16-lamb-merguez-with-herby-yogurt.md) from Julia Turshen's *Small Victories*. It never disappoints and can be added to pasta, served alongside rice, squash, or broccoli for a surprisingly complete meal.
+
+**Orecchiette with merguez and green onions** According to *A New Way to Dinner*, sausage + something green + something oniony + pasta = good (page 19). Results after the break.
+
+**Roasted asparagus** To serve with the lamb when we're not eating pasta.
+
+**Instant Pot chicken and rice** Trying a new recipe from [Budget Bytes](https://www.budgetbytes.com/2016/06/pressure-cooker-chicken-rice/). Fingers crossed.
+
+**Pan-seared broccoli, maybe with tofu** I've started keeping a big bag of roughly chopped broccoli in the fridge for Emergency Greens. This is the fastest way to put food on the table after a crazy day, for sure.
+
+**Roasted butternut squash** I made the discovery this weekend that G can be placated 100% by throwing a butternut squash, cut in half and seeds scooped out, into a 425°F oven for 30-45min. Dinner: solved.
