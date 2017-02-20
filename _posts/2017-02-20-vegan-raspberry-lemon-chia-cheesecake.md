@@ -1,6 +1,5 @@
 ---
 title: Vegan Raspberry Lemon Chia Cheesecake
-<<<<<<< HEAD
 date: 2017-02-20 20:32:00 -06:00
 categories:
 - recipe
@@ -71,35 +70,3 @@ When ready to serve, remove from the freezer and let thaw for 5 minutes.
 Using the sides of the parchment paper, carefully lift the cheesecake out of the pan. Use a sharp chef’s knife to slice it into 8 to 10 slices. Let the individual slices thaw for 15 to 20 minutes, until fully thawed and not icy. (If you’re not serving 8 to 10 people, re-freeze the remaining slices right after slicing.)
 
 _Note: I cut slices a few hours ahead of time and re-froze, then served the bars pretty much straight out of the freezer and it was just fine. I found that the longer it sat out, the cheesecake layer got a little runny._
-=======
-date: 2017-02-20 00:12:15 -06:00
-categories:
-- recipe
-tags:
-- raspberry
-- vegan
-- cheesecake
-- freeze
-- make-ahead
-image: ''
-source: Love and Lemons
-sourceURL: https://www.loveandlemons.com/raw-raspberry-lemon-chia-cheesecake
-sourceAuthor: ''
-yield: Makes one 8x4" loaf
-authorNote: ''
-personalNote: ''
-totalTime: ''
-prepTime: ''
-handsoffTime: ''
-cookTime: ''
-chillTime: overnight
-assemblyTime: ''
-reheatTime: ''
-ingredients: |-
-  ¼ cup soy sauce
-  2 tablespoons Worcestershire sauce
-  3 tablespoons minced garlic, from jar is fine
-  1 teaspoon garlic powder
-  ½ teaspoon onion powder
----
->>>>>>> origin/master
