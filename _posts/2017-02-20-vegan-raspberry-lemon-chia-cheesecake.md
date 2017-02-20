@@ -9,5 +9,24 @@ tags:
 - cheesecake
 - freeze
 - make-ahead
-layout: recipe
+image: ''
+source: Love and Lemons
+sourceURL: https://www.loveandlemons.com/raw-raspberry-lemon-chia-cheesecake
+sourceAuthor: ''
+yield: Makes one 8x4" loaf
+authorNote: ''
+personalNote: ''
+totalTime: ''
+prepTime: ''
+handsoffTime: ''
+cookTime: ''
+chillTime: overnight
+assemblyTime: ''
+reheatTime: ''
+ingredients: |-
+  ¼ cup soy sauce
+  2 tablespoons Worcestershire sauce
+  3 tablespoons minced garlic, from jar is fine
+  1 teaspoon garlic powder
+  ½ teaspoon onion powder
 ---
