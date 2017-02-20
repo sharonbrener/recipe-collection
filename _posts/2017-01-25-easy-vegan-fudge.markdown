@@ -27,7 +27,7 @@ prepTime: 5 min
 cookTime: 15 min
 chillTime: 4 hrs to overnight
 assemblyTime: 20 min
-ingredients: |2-
+ingredients: |-
     ⅔ cup full-fat coconut milk from a can
     2 Tbsp coconut oil
     12 oz semi sweet chocolate chips
