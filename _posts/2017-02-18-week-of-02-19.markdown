@@ -19,7 +19,9 @@ tags:
 - poppyseed
 - dumplings
 layout: menu
-summary: A dinner party for five, a day off, and all the hot-wing-style chicken drumsticks G can eat. Plus a better version of pecan chocolate chip banana bread, a new salad recipe, and supposed-to-be-vegan raspberry "cheesecake" bars.
+summary: A dinner party for five, a day off, and all the hot-wing-style chicken drumsticks
+  G can eat. Plus a better version of pecan chocolate chip banana bread, a new salad
+  recipe, and supposed-to-be-vegan raspberry "cheesecake" bars.
 ---
 
 ## (Dinner) party of five
