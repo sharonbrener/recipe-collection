@@ -14,6 +14,7 @@ tags:
 layout: recipe
 source: My Dish is Bomb
 sourceURL: http://mydishisbomb.com/easy-vegan-fudge/
+sourceAuthor: ''
 yield: Makes one 6x6 baking dish
 authorNote: The texture is almost truffle-like, and closer to dark chocolate than
   to milk chocolate. Even though the yield in this recipe is small, plan to give some
