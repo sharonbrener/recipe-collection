@@ -1,6 +1,5 @@
 ---
-title: Recipe
-Template
+title: Elderberry Syrup for Cold Symptoms
 date: 2017-04-04 00:12:15 -06:00
 categories:
 - recipe
@@ -18,9 +17,9 @@ source: Wellness Mama
 sourceURL: https://wellnessmama.com/1888/elderberry-syrup/
 sourceAuthor:
 yield: Makes 1 quart
-authorNote: A simple elderberry syrup recipe made with dried elderberries, honey and herbs for an immune boosting and delicious syrup. Can be used medicinally or on homemade pancakes or waffles.
+authorNote: "A simple elderberry syrup recipe made with dried elderberries, honey and herbs for an immune boosting and delicious syrup. Can be used medicinally or on homemade pancakes or waffles.
 
-Elderberry syrup provides the concentrated immune-supporting benefits of black elderberries in a great-tasting way. My homemade recipe uses homemade elderberry concentrate with synergistic herbs like cinnamon and ginger, plus raw honey for an extra immune boost. If you can’t/don’t use honey, see the substitution suggestions below the recipe.
+Elderberry syrup provides the concentrated immune-supporting benefits of black elderberries in a great-tasting way. My homemade recipe uses homemade elderberry concentrate with synergistic herbs like cinnamon and ginger, plus raw honey for an extra immune boost. If you can’t/don’t use honey, see the substitution suggestions below the recipe."
 personalNote: This is a homemade version of a natural cold/flu remedy that you can buy for twice the price in health food stores. Dolla dolla bills, yall.
 totalTime: 1 hr 40 min
 prepTime: 10 min

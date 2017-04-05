@@ -1,5 +1,5 @@
 ---
-title: Blood Orange,
+title: "Blood Orange, Fennel, and Avocado Salad with Lemon Citronette"
 date: 2017-04-04 00:12:15 -06:00
 categories:
 - recipe
@@ -21,7 +21,7 @@ authorNote: A refreshing salad featuring winter citrus, fennel, creamy goat chee
 personalNote: No matter how much you want to prepare, don't add the goat cheese until the last minute. Trust me.
 totalTime: 20 min
 prepTime: 20 min
-ingredients: |-
+ingredients: '
 <span class="ingredient-header">For the salad</span>
   4 large handfuls of spring greens
   2 blood oranges (or a mix of oranges and grapefruits), supremed into segments
@@ -35,8 +35,7 @@ ingredients: |-
   1 lemon, preferably organic, zested and juiced
   ½ teaspoon Dijon mustard
   ½ teaspoon honey
-  Sea salt and lots of freshly ground black pepper, to taste
-
+  Sea salt and lots of freshly ground black pepper, to taste'
 ---
 
 ### To prep

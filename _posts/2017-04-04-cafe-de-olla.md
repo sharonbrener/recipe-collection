@@ -18,9 +18,9 @@ source: Mexico in My Kitchen
 sourceURL: http://www.mexicoinmykitchen.com/2012/11/cafe-de-olla-recipe-receta-de-cafe-de.html
 sourceAuthor: by Mely Martinez
 yield: Serves 4
-authorNote: This is the most common version of Café de Olla, sometimes you will find it with the addition of cloves and anise seeds. Another variation adds an orange peel into the pot for a nice aroma.
+authorNote: "This is the most common version of Café de Olla, sometimes you will find it with the addition of cloves and anise seeds. Another variation adds an orange peel into the pot for a nice aroma.
 
-When buying piloncillo/panela, make sure to look for the pure, dark version. There is a look-alike version in some stores that are just plain sugar in a cone shape lacking the flavor and nutrients  of the real piloncillo. When ready to cut the piloncillo, warm it up first to soften it.
+When buying piloncillo/panela, make sure to look for the pure, dark version. There is a look-alike version in some stores that are just plain sugar in a cone shape lacking the flavor and nutrients  of the real piloncillo. When ready to cut the piloncillo, warm it up first to soften it."
 personalNote: We first tried cafe de olla at Mi Madre's and I've been meaning to make it at home for years. One day!
 totalTime: 20 min
 cookTime: '20 min'

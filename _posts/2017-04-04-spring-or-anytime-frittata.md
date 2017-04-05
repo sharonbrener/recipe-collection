@@ -16,9 +16,9 @@ source: Love and Lemons
 sourceURL: http://www.loveandlemons.com/2014/07/28/tomato-zucchini-frittata/
 sourceAuthor: by Jeanine Donofrio
 yield: Serves about three
-authorNote: If you're using a skillet larger than 10 inches, use 8 eggs instead of 6.
+authorNote: "If using a skillet larger than 10 inches, use 8 eggs instead of 6.
 
-For a prettier frittata, add all of your veggies in two layers. Add the first half as written, then add the rest after your eggs have partially set in the oven. Continue cooking until eggs are fully set. (This step is entirely not necessary for the actual taste).
+For a prettier frittata, add all of your veggies in two layers. Add the first half as written, then add the rest after your eggs have partially set in the oven. Continue cooking until eggs are fully set. (This step is entirely not necessary for the actual taste)."
 personalNote:
   This has become my go-to frittata template, though really you can put any vegetable you want in there and it'll taste fantastic.
 totalTime: 30-40 min
@@ -70,7 +70,7 @@ Chop broccoli into smallish florets and slice leeks thinly. The leeks will need 
 
 ### Mushroom and asparagus frittata
 
-Add one bunch of trimmed asparagus, a handful of sliced cremini mushrooms, and one thinly sliced shallot to a baking sheet and roast for 15-20 min at 425°F, or until crisp-tender, then follow cooking instrutions. 
+Add one bunch of trimmed asparagus, a handful of sliced cremini mushrooms, and one thinly sliced shallot to a baking sheet and roast for 15-20 min at 425°F, or until crisp-tender, then follow cooking instrutions.
 
 ### [Spinach frittata](http://www.loveandlemons.com/2012/12/03/spinach-frittata/)
 

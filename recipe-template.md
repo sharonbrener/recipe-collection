@@ -11,8 +11,8 @@ tags:
 - make-ahead / quick / weeknight / weekend / diy-project
 - fall / winter / spring / summer
 - basics / family / remedy / gift-idea / to-do
-- [recipeType like pasta, soup, cake, liqueur, etc]
-- [recipeIngredient like beef, chocolate, broccoli, etc]
+- ADD recipeType like pasta, soup, cake, liqueur, etc
+- ADD recipeIngredient like beef, chocolate, broccoli, etc
 layout: recipe
 source: [site name or book name]
 sourceURL: ''
@@ -27,13 +27,13 @@ cookTime: ''
 chillTime: ''
 assemblyTime: ''
 reheatTime: ''
-ingredients: |-
+ingredients: '
 <span class="ingredient-header">For the salad</span>
   ⅛ teaspoon
   ¼ tablespoon
   ⅓ cup
   ½ ⅔ ¾
-  A pinch of..."
+  A pinch of...'
 ---
 
 ### To prep

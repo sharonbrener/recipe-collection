@@ -27,7 +27,7 @@ totalTime: 20 min + 48 hours
 prepTime: 10 min
 cookTime: 10 min
 handsoffTime: 48 hours (or more)
-ingredients: |-
+ingredients: "
 5-6 Kirby (pickling) or Persian cucumbers
 2 cloves garlic (smashed)
 1 teaspoon dill seed
@@ -37,7 +37,7 @@ ingredients: |-
 2-3 sprigs dill weed
 1 cup water
 ¾ cup white vinegar
-1 tablespoon kosher salt
+1 tablespoon kosher salt"
 ---
 
 ### To prep the cucumbers
