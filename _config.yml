@@ -20,10 +20,10 @@ defaults:
     layout: recipe
     image: ''
     tags: []
-    source: "[site name or book name]"
+    source: ''
     sourceURL: ''
-    sourceAuthor: by [Author], p[n]
-    yield: Makes []
+    sourceAuthor: ''
+    yield: ''
     authorNote: ''
     personalNote: ''
     totalTime: ''
@@ -33,7 +33,7 @@ defaults:
     chillTime: ''
     assemblyTime: ''
     reheatTime: ''
-    ingredients: "⅛ ¼ ⅓ ½ ⅔ ¾ fractions"
+    ingredients: ''
 - scope:
     path: ''
     type: posts

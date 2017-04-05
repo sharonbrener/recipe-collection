@@ -20,7 +20,7 @@ yield: makes about 2 cups
 authorNote: This can be served warm or chilled, but I like it best served straight
   from the fridge.
 personalNote: |-
-  Make this as a gift to share with friends in adorable mini jars, or enjoy withlemon poppyseed crepes.
+  Make this as a gift to share with friends in adorable mini jars, or enjoy with lemon poppyseed crepes.
 
   Or, for a complex but delicious breakfast treat á la my favorite dish at The Steeping Room, serve alongside cured salmon, latkes (hashbrowns), and sour cream.
 totalTime: 1 hr 30 min

@@ -10,7 +10,7 @@ layout: default
 
 My recipe template is based off of the entities on [https://schema.org/Recipe](https://schema.org/Recipe) and I've done my best to create a complete _(lolol)_ set of tags that span meal type, ingredients, diets, cooking methods, cuisines, and seasons. It's complicated, and a perpetual work in progress.
 
-### mealType
+### mealType ✓
 
 These will likely become broader categories, at some point.
 
@@ -23,6 +23,7 @@ These will likely become broader categories, at some point.
 *   `salad` ✓
 *   `sauce` ✓
 *   `drink` ✓
+*   `snack` ✓
 
 ### recipeCuisine
 
@@ -33,9 +34,8 @@ These will likely become broader categories, at some point.
 *   `russian` ✓
 *   `jewish` ✓
 *   `mediterranean` ✓
-*   `mexican` (TODO)
+*   `mexican` ✓
 * 	`moroccan` ✓
-*   `latin` (TODO)
 *	  `southern` ✓
 *	  `modern` (TODO; sous-vide)
 
@@ -61,8 +61,8 @@ The one or two main cooking methods used.
 *   `fry`  ✓
 *   `grill`  ✓
 *   `infuse` (vanilla extract)
-*   `pickle` (TODO)
-*   `poach` (poached pears)
+*   `pickle` ✓
+*   `poach` ✓
 *   `pressure-cook`  ✓
 *   `raw` ✓
 *   `roast` ✓
@@ -72,7 +72,7 @@ The one or two main cooking methods used.
 *   `steam` ✓
 
 
-### timing
+### timing ✓
 
 How long this recipe takes, start to finish.
 
@@ -82,7 +82,7 @@ How long this recipe takes, start to finish.
 *   `weekend`  ✓
 *   `diy-project`  ✓
 
-### season
+### season ✓
 
 If ingredients or recipe are particularly seasonal
 
@@ -91,22 +91,22 @@ If ingredients or recipe are particularly seasonal
 *   `spring` ✓
 *   `summer`  ✓
 
-### navigation
+### navigation ✓
 
 This is probably the only section that is specific to this website, but these sections are important for me:
 
-*   `basics`  ✓ _for simple preparations or foundational elements to come back to over and over again_
-*   `make-ahead`  ✓ _recipes that must be started a day or more ahead of time OR keep well for a number of days_
-*   `family`  ✓ _pretty self-explanatory, but recipes that have been passed down from either Lederman, Silverberg, or Brener clans_
-*   `diy-project`  ✓ _the kind of recipe that's more of an experiment and that most people would just buy in the store instead, but we try because we're fancy_
-*   `remedy` _homeopathic remedies and elixirs for better health and wellness_
-*   `gift-idea`  ✓ _things that are great to give away or make for others_
-*   `to-do`  ✓ _unvetted recipes that are on my list of things to try_
+*   `basics` _for simple preparations or foundational elements to come back to over and over again_  ✓
+*   `make-ahead` _recipes that must be started a day or more ahead of time OR keep well for a number of days_  ✓
+*   `family` _pretty self-explanatory, but recipes that have been passed down from either Lederman, Silverberg, or Brener clans_  ✓
+*   `diy-project` _the kind of recipe that's more of an experiment and that most people would just buy in the store instead, but we try because we're fancy_  ✓
+*   `remedy` _homeopathic remedies and elixirs for better health and wellness_  ✓
+*   `gift-idea` _things that are great to give away or make for others_  ✓
+*   `to-do` _unvetted recipes that are on my list of things to try_  ✓
 
-### recipeType
+### recipeType ✓
 
 What kind of dish is this? A `pasta`, `soup`, `cake`? Maybe a `liqueur`?
 
-### recipeIngredient
+### recipeIngredient ✓
 
 List the one or two main ingredients in the dish, i.e. `beef`, `chocolate`, `broccoli`. These should reflect their primary food group (dairy, fruit, grains, meat, vegetable, alcohol).
