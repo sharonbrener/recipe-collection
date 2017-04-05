@@ -2,7 +2,7 @@
 title: A guide to recipe tags
 date: 2017-01-06 18:00:00 -06:00
 tags:
-  Key 1: 
+  Key 1:
 layout: default
 ---
 
@@ -16,59 +16,60 @@ These will likely become broader categories, at some point.
 
 *   `breakfast` ✓
 *   `brunch` ✓
-*   `lunch`
 *   `dinner` ✓
 *   `dessert` ✓
-*   `appetizer`
+*   `appetizer` ✓
 *   `side-dish` ✓
+*   `salad` ✓
 *   `sauce` ✓
-*   `drink`
+*   `drink` ✓
 
 ### recipeCuisine
 
 *   `asian` ✓
 *   `french` ✓
 *   `italian` ✓
+*   `indian` ✓
 *   `russian` ✓
 *   `jewish` ✓
-*   `mediterranean`
-*   `mexican`
+*   `mediterranean` ✓
+*   `mexican` (TODO)
 * 	`moroccan` ✓
-*   `latin`
-*	  `southern`
-*	  `modern`
+*   `latin` (TODO)
+*	  `southern` ✓
+*	  `modern` (TODO; sous-vide)
 
 ### restrictedDiet
 
 *   `vegan`  ✓
 *   `vegetarian`  ✓
-*   `kosher`
+*   `kosher` ✓
 *   `gluten-free`  ✓
 *   `dairy-free`  ✓
-*   `diabetic`
-*   `paleo`  ✓
+*   `diabetic-friendly` (TODO)
+*   `paleo` ✓
 
 ### cookingMethod
 
 The one or two main cooking methods used.
 
 *   `bake`  ✓
-*   `braise`
+*   `braise` (brisket, short ribs)
 *   `cure`  ✓
-*   `ferment`
+*   `ferment` (kombucha)
 *   `freeze`  ✓
 *   `fry`  ✓
 *   `grill`  ✓
-*   `infuse`
-*   `pickle`
-*   `poach`
+*   `infuse` (vanilla extract)
+*   `pickle` (TODO)
+*   `poach` (poached pears)
 *   `pressure-cook`  ✓
-*   `raw`
-*   `roast`
-*   `saute`  ✓
-*   `smoke`
-*   `sous-vide`
-*   `steam`
+*   `raw` ✓
+*   `roast` ✓
+*   `saute` ✓
+*   `smoke` (TODO)
+*   `sous-vide` (TODO)
+*   `steam` ✓
 
 
 ### timing
@@ -85,9 +86,9 @@ How long this recipe takes, start to finish.
 
 If ingredients or recipe are particularly seasonal
 
-*   `fall`  ✓
-*   `winter`  ✓
-*   `spring`
+*   `fall` ✓
+*   `winter` ✓
+*   `spring` ✓
 *   `summer`  ✓
 
 ### navigation

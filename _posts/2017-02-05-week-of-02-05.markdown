@@ -5,7 +5,7 @@ categories:
 - menu
 tags:
 - lamb
-- meatball
+- meatballs
 - chicken
 - rice
 - asparagus

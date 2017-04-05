@@ -19,6 +19,7 @@ tags:
 layout: recipe
 source: Love and Lemons
 sourceURL: https://www.loveandlemons.com/raw-raspberry-lemon-chia-cheesecake
+sourceAuthor: by Jeanine Donofrio
 yield: Makes one 8x4 loaf pan
 authorNote: This recipe requires each layer to be frozen before adding the next so it's best to prep this at least one day before you would like to serve it.
 personalNote: This was a huge hit when I made it for non-vegan friends (using real cream cheese, because why not?). Feels indulgent while still being not _too_ bad for you. And the level of effort is so low its hard not to want to make it – I managed to do everything with an immersion blender 💪. The only thing I might try next time would be either 1) putting the raspberry layer in the middle or 2) doing a thinner layer of raspberry and then swirling the rest together with the cheesecake layer. Yum.

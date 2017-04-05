@@ -10,7 +10,6 @@ tags:
 - vegan
 - saute
 - quick
-- stew
 - pasta
 - chickpea
 - to-do
