@@ -16,7 +16,7 @@ source: Love and Lemons
 sourceURL: http://www.loveandlemons.com/2014/07/28/tomato-zucchini-frittata/
 sourceAuthor: by Jeanine Donofrio
 yield: Serves about three
-authorNote: "If using a skillet larger than 10 inches, use 8 eggs instead of 6.
+authorNote: "If using a skillet larger than 10 inches, use 8 eggs instead of 6.  
 
 For a prettier frittata, add all of your veggies in two layers. Add the first half as written, then add the rest after your eggs have partially set in the oven. Continue cooking until eggs are fully set. (This step is entirely not necessary for the actual taste)."
 personalNote:
@@ -48,7 +48,7 @@ Heat an 8 or 10 inch skillet on the stove. Add a bit of olive oil, then add the 
 
 Remove about a third of the vegetables from the pan and set aside.
 
-## To cook
+### To cook
 
 Pull out the center rack from the oven and place the pan on the rack. Pour the eggs into the pan, covering the vegetables, add a pinch of paprika, and slide the rack carefully into the oven.
 

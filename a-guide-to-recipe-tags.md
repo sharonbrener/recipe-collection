@@ -46,7 +46,7 @@ These will likely become broader categories, at some point.
 *   `kosher` ✓
 *   `gluten-free`  ✓
 *   `dairy-free`  ✓
-*   `diabetic-friendly` (TODO)
+*   `diabetic-friendly` (TO DO)
 *   `paleo` ✓
 
 ### cookingMethod
