@@ -6,7 +6,7 @@ Somehow, there's no out-of-the-box solution out there on the internet that works
 
 ## This site is pretty simple.
 
-Some recipes will be [our family recipes](/tag/family) or [simple basics](/tag/basic), others will be [bigger DIY projects](/tag/diy-project) like making your own bitters or kombucha. Most of these are direct translations from other sources (thank you, sources) and I lay no claims to the content.
+Some recipes will be [our family recipes](/tag/family) or [simple basics](/tag/basics), others will be [bigger DIY projects](/tag/diy-project) like making your own bitters or kombucha. Most of these are direct translations from other sources (thank you, sources) and I lay no claims to the content.
 
 Eventually, I hope to add fancy search and commenting functionality so that I can document what I've learned every time I make [something new](/tag/to-do). This is also an exercise in teaching myself to be patient. Is it working yet?
 

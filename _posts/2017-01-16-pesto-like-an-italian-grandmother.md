@@ -28,7 +28,7 @@ authorNote: |-
 
   You'll notice this recipe doesn't have any added salt (just the saltiness from the cheese), make sure your pasta water is well salted if you are going to use this pesto on pasta or the overall flavor profile will fall flat. Also, be sure to adjust for seasoning before serving. With food this simple, you need to get the seasoning right.
 personalNote: ''
-totalTime: ''
+totalTime: 30 min
 prepTime: 20-30 min
 handsoffTime: ''
 cookTime: ''
