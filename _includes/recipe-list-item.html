@@ -22,7 +22,7 @@
 <h5 class="tags">
   {% assign sortedtags = post.tags | sort %}
   {% for tag in sortedtags %}
-      <a href="/tag/{{tag}}">{{ tag }}</a>
+      <a href="{{ site.github.url }}/tag/{{tag}}">{{ tag }}</a>
       {% if forloop.last != true %}
           &nbsp;
       {% endif %}

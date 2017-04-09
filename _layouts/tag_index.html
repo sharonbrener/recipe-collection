@@ -10,7 +10,7 @@ layout: default
   {% assign sortedtags = site.tags | sort %}
   {% for tag in sortedtags %}
     <p>
-      <a href="/tag/{{ tag[0] }}">{{ tag[0] }}</a>
+      <a href="{{ site.github.url }}/tag/{{ tag[0] }}">{{ tag[0] }}</a>
       <span class="small">{{ tag[1].size }}</span>
       <br />
     </p>
