@@ -15,7 +15,7 @@ tags:
 - potato
 layout: recipe
 source: The Smitten Kitchen Cookbook
-sourceAuthor: by Deb Perelman, p172-4
+sourceAuthor: by Deb Perelman, p172
 yield: Makes one roast chicken, serves 2-4
 authorNote: "I learned that taking out the backbone from a chicken-spatchcocking,
 its delightfully called-meant that we could have roasted chicken
@@ -26,7 +26,7 @@ on the table in only an hour. Did you hear that? You're 1 hour from
 glossy, crackly-skinned chicken, perfectly complemented by wee
 potatoes browned in drippings, and a side of green beans. I honestly
 dont even know why yours still reading this. Get thee to the kitchen!"
-personalNote: "I'll admit – I was super freaked out the first time I spatch-cocked a chicken (read: made G cut out the backbone for me), but since then I've gotten used to it. And it's totally true – beautifully roasted chicken in an hour means we'll never buy one of those grocery store rotisserie chickens again."
+personalNote: "I'll admit – I was super freaked out the first time I spatchcocked a chicken (read: made G cut out the backbone for me), but since then I've gotten used to it. And it's totally true – beautifully roasted chicken in an hour means we'll never buy one of those grocery store rotisserie chickens again."
 totalTime: 1 hr
 prepTime: 10 min
 cookTime: 45 min
