@@ -17,7 +17,6 @@ layout: recipe
 image: ''
 source: All Recipes
 sourceURL: http://allrecipes.com/recipe/100606/beef-bulgogi/
-sourceAuthor: by [Author], p[n]
 yield: Serves 2 with leftovers
 authorNote: ''
 personalNote: "Put the flank steak in the freezer for a few minutes before slicing

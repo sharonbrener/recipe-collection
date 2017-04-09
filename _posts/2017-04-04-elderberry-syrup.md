@@ -15,7 +15,6 @@ tags:
 layout: recipe
 source: Wellness Mama
 sourceURL: https://wellnessmama.com/1888/elderberry-syrup/
-sourceAuthor:
 yield: Makes 1 quart
 authorNote: "A simple elderberry syrup recipe made with dried elderberries, honey and herbs for an immune boosting and delicious syrup. Can be used medicinally or on homemade pancakes or waffles.
 

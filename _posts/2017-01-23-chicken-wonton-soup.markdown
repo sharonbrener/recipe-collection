@@ -11,7 +11,6 @@ tags:
 - chicken
 - dumplings
 - dinner
-position: 2
 layout: recipe
 image: "/uploads/chicken-wonton-soup.jpg"
 source: Smitten Kitchen

@@ -15,7 +15,7 @@ tags:
 - potato
 layout: recipe
 source: The Smitten Kitchen Cookbook
-sourceAuthor: by Deb Perelman, p172
+sourceAuthor: by Deb Perelman, p 172
 yield: Makes one roast chicken, serves 2-4
 authorNote: "I learned that taking out the backbone from a chicken-spatchcocking,
 its delightfully called-meant that we could have roasted chicken

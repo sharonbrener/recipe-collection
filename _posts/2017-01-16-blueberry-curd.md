@@ -15,7 +15,6 @@ layout: recipe
 image: ''
 source: Joy the Baker
 sourceURL: http://joythebaker.com/2016/08/lemon-poppy-seed-crepes-with-blueberry-curd/
-sourceAuthor: ''
 yield: makes about 2 cups
 authorNote: This can be served warm or chilled, but I like it best served straight
   from the fridge.

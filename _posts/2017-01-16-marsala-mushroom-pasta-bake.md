@@ -20,7 +20,6 @@ layout: recipe
 image: ''
 source: Smitten Kitchen
 sourceURL: http://smittenkitchen.com/blog/2015/01/mushroom-marsala-pasta-bake/
-sourceAuthor: by [Author], p[n]
 yield: Makes 4 really generous or 6 slightly more modest portions. Double in a 9x13-inch
   pan to serve a crowd.
 authorNote: 'A tip: If we play our cards right here, this can be made entirely in

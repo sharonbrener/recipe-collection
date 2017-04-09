@@ -19,7 +19,6 @@ tags:
 layout: recipe
 source: Brussels Sprouts for Breakfast
 sourceURL: http://brusselsforbreak.blogspot.com/2016/07/dill-pickle-spears.html
-sourceAuthor: by Katie Hanscel
 yield: Makes 1 pint
 authorNote: ''
 personalNote: In a pinch, sub in seedless cucumbers for the Kirbys.

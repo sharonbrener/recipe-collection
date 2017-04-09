@@ -16,7 +16,9 @@ tags:
 layout: recipe
 source: [site name or book name]
 sourceURL: ''
-sourceAuthor: by [Author], p[n]
+sourceAuthor: by [Author], p [n]
+image: ''
+## Add image to _uploads folder and give it the relative path "/uploads/FILENAME.jpg"
 yield: Makes/Serves []
 authorNote: ''
 personalNote: ''
