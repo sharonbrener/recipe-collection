@@ -1,7 +1,6 @@
 ---
 title: Recipes
 timezone: America/Chicago
-baseurl: http://sharonbrener.github.io/recipe-collection
 collections:
   lists:
     title: Lists
