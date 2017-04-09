@@ -1,5 +1,5 @@
 ---
-title: Passover 2017
+title: 'Passover 2017'
 date: 2017-04-08 17:11:20 -06:00
 categories:
 - menu
@@ -7,11 +7,19 @@ tags:
 - passover
 - gluten-free
 - brisket
+- holiday
+- soup
+- cauliflower
+- macaroons
+- coconut
+- chocolate
+- horseradish
+- meringue
 layout: menu
 summary: A combination of classic Passover dishes and a few new additions for this year's Passover seder (on a Monday 😩) where we'll host the parents, brother, and a good friend at our house.
 ---
 
-## Passover dinner for six
+## Passover: Dinner for six
 _Two years ago, G and I hosted two good friends and my parents at our tiny downtown apartment. It was a cozy affair full of love and bad dadjokes. Fast-forward to us, married, in our grown-up-person house, and we're attempting to recreate the magic._
 
 ### First course
@@ -20,7 +28,7 @@ _Two years ago, G and I hosted two good friends and my parents at our tiny downt
 Classic, out of the box, just like Mom used to make #not-ashamed  
 
 **Simple salad of greens and radishes**  
-With creamy mustard dressing and sliced almonds
+With [creamy mustard dressing](http://www.epicurious.com/recipes/food/views/green-salad-with-radishes-and-creamy-mustard-dressing-51262910) and sliced almonds
 
 **[Preserved horseradish](http://www.seriouseats.com/2015/07/how-to-prepare-fresh-horseradish.html)** Why not make our own? It looks ridiculously easy, even if it might require a gas mask. Plus, it'll keep forever in the fridge.
 
