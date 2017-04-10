@@ -29,13 +29,13 @@ cookTime: ''
 chillTime: ''
 assemblyTime: ''
 reheatTime: ''
-ingredients: '
-<span class="ingredient-header">For the salad</span>
+ingredients: |-
+  <span class="ingredient-header">For the salad</span>
   ⅛ teaspoon
   ¼ tablespoon
   ⅓ cup
   ½ ⅔ ¾
-  A pinch of...'
+  A pinch of...
 ---
 
 ### To prep

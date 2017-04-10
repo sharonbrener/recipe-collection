@@ -13,32 +13,33 @@ My recipe template is based off of the entities on [https://schema.org/Recipe](h
 ### mealType
 
 These will likely become broader categories, at some point:  
-[breakfast](/tag/breakfast/), [brunch](/tag/brunch), [dinner](/tag/dinner), [dessert](/tag/dessert),  
-[appetizer](/tag/appetizer), [salad](/tag/salad), [side-dish](/tag/side-dish), [sauce](/tag/sauce), [snack](/tag/snack), [drink](/tag/drink)
+**[breakfast](/tag/breakfast/), [brunch](/tag/brunch), [dinner](/tag/dinner), [dessert](/tag/dessert),  
+[appetizer](/tag/appetizer), [salad](/tag/salad), [side-dish](/tag/side-dish), [sauce](/tag/sauce), [snack](/tag/snack), [drink](/tag/drink)**
 
 ### recipeCuisine
-[asian](/tag/asian), [french](/tag/french), [italian](/tag/italian), [indian](/tag/indian), [russian](/tag/russian), [jewish](/tag/jewish), [mediterranean](/tag/mediterranean), [mexican](/tag/mexican), [moroccan](/tag/moroccan), [southern](/tag/southern)  
+**[asian](/tag/asian), [french](/tag/french), [italian](/tag/italian), [indian](/tag/indian), [russian](/tag/russian), [jewish](/tag/jewish), [mediterranean](/tag/mediterranean), [mexican](/tag/mexican), [moroccan](/tag/moroccan), [southern](/tag/southern)**  
 _Coming soon: `modern`_
 
 ### restrictedDiet
 
-[vegan](/tag/vegan), [vegetarian](/tag/vegetarian), [kosher](/tag/kosher), [gluten-free](/tag/gluten-free), [dairy-free](/tag/dairy-free), [paleo](/tag/paleo)  
+**[vegan](/tag/vegan), [vegetarian](/tag/vegetarian), [kosher](/tag/kosher), [gluten-free](/tag/gluten-free), [dairy-free](/tag/dairy-free), [paleo](/tag/paleo)**  
 _Coming soon: `diabetic-friendly`_
 
 ### cookingMethod
 
 The one or two main cooking methods used in the recipe:  
-[bake](/tag/bake), [cure](/tag/cure), [freeze](/tag/freeze), [fry](/tag/fry), [grill](/tag/grill), [pickle](/tag/pickle), [poach](/tag/poach), [pressure-cook](/tag/pressure-cook), [raw](/tag/raw), [roast](/tag/roast) _(different from `bake` in that it's usually meats or veg while baking is for breads and sweets)_, [saute](/tag/saute), [steam](/tag/steam)  
-_Coming soon: `braise` (for brisket, short ribs, etc.), `ferment` (for kombucha, ginger beer, kefir), `infuse` (for vanilla extract, bitters), and `smoke`/`sous-vide` (for when I eventually get around to doing these!)_
+**[bake](/tag/bake), [braise](/tag/braise), [cure](/tag/cure), [freeze](/tag/freeze), [fry](/tag/fry), [grill](/tag/grill), [infuse](/tag/infuse), [pickle](/tag/pickle), [poach](/tag/poach), [pressure-cook](/tag/pressure-cook), [raw](/tag/raw), [roast](/tag/roast), [saute](/tag/saute), [steam](/tag/steam)**  
+_Coming soon: 'ferment` (for kombucha, ginger beer, kefir), and `smoke`/`sous-vide` (whenever I actually get around to doing them)_
 
 
 ### timing
 How long this recipe takes, start to finish (in ascending order):  
-[quick](/tag/quick) _(for recipes that take 30 min or less)_, [weeknight](/tag/weeknight), [weekend](/tag/weekend), [make-ahead](/tag/make-ahead), [diy-project](/tag/diy-project)
+**[quick](/tag/quick)** _(for recipes that take 30 min or less)_,  
+**[weeknight](/tag/weeknight), [weekend](/tag/weekend), [make-ahead](/tag/make-ahead), [diy-project](/tag/diy-project)**
 
 ### season
-If ingredients or recipe are particularly seasonal:
-[fall](/tag/fall), [winter](/tag/winter), [spring](/tag/spring), [summer](/tag/summer)
+If ingredients or recipe are particularly seasonal:  
+**[fall](/tag/fall), [winter](/tag/winter), [spring](/tag/spring), [summer](/tag/summer)**
 
 ### navigation
 This is probably the only section that is specific to this website, but these sections are important for me:
@@ -54,8 +55,8 @@ This is probably the only section that is specific to this website, but these se
 
 ### recipeType ✓
 
-What kind of dish is this? A [pasta](/tag/pasta), [soup](/tag/soup), [cake](/tag/cake)? Maybe a `liqueur`?
+What kind of dish is this? A **[pasta](/tag/pasta), [soup](/tag/soup), [cake](/tag/cake)**? Maybe an **[extract](/tag/extract)**?
 
 ### recipeIngredient ✓
 
-List the one or two main ingredients in the dish, i.e. [beef](/tag/beef), [chocolate](/tag/chocolate), [broccoli](/tag/broccoli). These should reflect their primary food group (dairy, fruit, grains, meat, vegetable, alcohol).
+List the one or two main ingredients in the dish, i.e. **[beef](/tag/beef), [chocolate](/tag/chocolate), [broccoli](/tag/broccoli)**. These should reflect their primary food group (dairy, fruit, grains, meat, vegetable, alcohol).
