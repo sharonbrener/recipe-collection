@@ -14,7 +14,7 @@ tags:
 - pasta
 - mushroom
 - wine
-- hard cheese
+- hard-cheese
 - vegetarian
 layout: recipe
 image: ''

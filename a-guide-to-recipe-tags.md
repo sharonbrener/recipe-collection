@@ -23,7 +23,6 @@ _Coming soon: `modern`_
 ### restrictedDiet
 
 **[vegan](/tag/vegan), [vegetarian](/tag/vegetarian), [kosher](/tag/kosher), [gluten-free](/tag/gluten-free), [dairy-free](/tag/dairy-free), [paleo](/tag/paleo)**  
-_Coming soon: `diabetic-friendly`_
 
 ### cookingMethod
 
@@ -53,10 +52,10 @@ This is probably the only section that is specific to this website, but these se
 **[gift-idea](/tag/gift-idea)**: _things that are great to give away or make for others_  
 **[to-do](/tag/to-do)**: _unvetted recipes that are on my list of things to try_  
 
-### recipeType ✓
+### recipeType
 
 What kind of dish is this? A **[pasta](/tag/pasta), [soup](/tag/soup), [cake](/tag/cake)**? Maybe an **[extract](/tag/extract)**?
 
-### recipeIngredient ✓
+### recipeIngredient
 
 List the one or two main ingredients in the dish, i.e. **[beef](/tag/beef), [chocolate](/tag/chocolate), [broccoli](/tag/broccoli)**. These should reflect their primary food group (dairy, fruit, grains, meat, vegetable, alcohol).

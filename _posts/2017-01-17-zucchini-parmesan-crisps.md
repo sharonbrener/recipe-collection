@@ -12,6 +12,7 @@ tags:
 - zucchini
 - parmesan
 - vegetarian
+- hard-cheese
 layout: recipe
 image: ''
 source: Food Network

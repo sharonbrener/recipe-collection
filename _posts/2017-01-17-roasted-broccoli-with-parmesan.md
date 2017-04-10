@@ -11,7 +11,7 @@ tags:
 - weeknight
 - basics
 - broccoli
-- hard cheese
+- hard-cheese
 layout: recipe
 image: ''
 source: Simply Recipes
