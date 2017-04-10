@@ -1,0 +1,51 @@
+---
+title: Recipes
+timezone: America/Chicago
+collections:
+  lists:
+    title: Lists
+    output: true
+    permalink: none
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: recipe
+    image: ''
+    tags: []
+    source: ''
+    sourceURL: ''
+    sourceAuthor: ''
+    yield: ''
+    authorNote: ''
+    personalNote: ''
+    totalTime: ''
+    prepTime: ''
+    handsoffTime: ''
+    cookTime: ''
+    chillTime: ''
+    assemblyTime: ''
+    reheatTime: ''
+    ingredients: ''
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: default
+    image: ''
+    tags: []
+    summary: ''
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: default
+    image: ''
+    tags: []
