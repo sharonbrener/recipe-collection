@@ -1,4 +1,4 @@
-# Hello.
+# 👋 Hello there.
 
 ## This is an experiment in combining all the things I care about: design, ruthless organization, and making messes in the kitchen.
 

@@ -6,7 +6,7 @@ layout: default
 
 # 👋 Hello there.
 
-## This is a grand experiment.
+## This is an experiment in combining all the things I care about: design, ruthless organization, and making messes in the kitchen.
 
 Somehow, there's no out-of-the-box solution out there on the internet that works the way I want it to (said every [designer](http://www.sharonbrener.com) ever), so I'm biting the bullet and making it myself. In the process, I'm slowly teaching myself Jekyll, Git, and deep diving into CSS/HTML for the first time since college. Seems like the world's a little different out there.
 
