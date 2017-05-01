@@ -144,6 +144,7 @@ code.highlighter-rouge {
 	overflow: hidden;
 	position: fixed;
 	top: 0rem;
+	z-index: 100;
 	}
 
 .logo {

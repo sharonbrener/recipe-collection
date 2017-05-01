@@ -1,0 +1,4 @@
+---
+BUNDLE_WITHOUT: "nokogiri"
+BUNDLE_PATH: "/usr/local/lib/ruby/gems/2.3.0/gems/"
+BUNDLE_DISABLE_SHARED_GEMS: "true"
