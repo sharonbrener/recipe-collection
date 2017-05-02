@@ -23,7 +23,7 @@ sourceAuthor: by Jeanine Donofrio
 yield: Makes one 8x4 loaf pan
 authorNote: This recipe requires each layer to be frozen before adding the next so it's best to prep this at least one day before you would like to serve it.
 personalNote: This was a huge hit when I made it for non-vegan friends (using real cream cheese, because why not?). Feels indulgent while still being not _too_ bad for you. And the level of effort is so low its hard not to want to make it – I managed to do everything with an immersion blender 💪. The only thing I might try next time would be either 1) putting the raspberry layer in the middle or 2) doing a thinner layer of raspberry and then swirling the rest together with the cheesecake layer. Yum.
-totalTime: '30 min on Day 1, 2 hrs 30 min Day two'
+totalTime: 'Day 1: 30 min, Day 2: 2 hrs 30 min'
 prepTime: '30 min'
 chillTime: '8 hours to overnight'
 assemblyTime: '10 min'
@@ -61,9 +61,11 @@ Freeze until this layer is completely firm, at least 2 hours.
 
 ### To prep the raspberry layer
 
-In the blender (no need to wash between layers), combine the raspberries, lemon juice, maple syrup and chia seeds. Blend until smooth. Transfer to a bowl and refrigerate until ready to assemble. When the cheesecake layer is frozen and firm to the touch, pour the raspberry mixture on top and smooth until even. Freeze for 4 hours or overnight.
+In the blender (no need to wash between layers), combine the raspberries, lemon juice, maple syrup and chia seeds. Blend until smooth. Transfer to a bowl and refrigerate until ready to assemble.
 
 _Note: At this point, you can be done with Day 1. Adding the raspberry layer to the cheesecake in the morning of Day 1, freezing for two hours, and then cutting was super easy._
+
+When the cheesecake layer is frozen and firm to the touch, pour the raspberry mixture on top and smooth until even. Freeze for 4 hours or overnight.
 
 ### To serve
 When ready to serve, remove from the freezer and let thaw for 5 minutes.
