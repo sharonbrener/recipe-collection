@@ -49,3 +49,5 @@ defaults:
     layout: default
     image: ''
     tags: []
+gems:
+  - algoliasearch-jekyll
