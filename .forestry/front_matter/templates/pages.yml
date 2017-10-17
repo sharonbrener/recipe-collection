@@ -1,0 +1,117 @@
+---
+pages:
+- search.html
+- references.md
+- recipe-template.md
+- index.html
+- menus/index.html
+- about.md
+- a-guide-to-recipe-tags.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: field_group
+  fields:
+  - name: Key 1
+    label: Key 1
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: []
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: default
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: source
+  label: Source
+  type: list
+  hidden: false
+  default: ''
+- name: sourceURL
+  label: Sourceurl
+  type: text
+  hidden: false
+  default: ''
+- name: sourceAuthor
+  label: Sourceauthor
+  type: text
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: ''
+- name: yield
+  label: Yield
+  type: text
+  hidden: false
+  default: ''
+- name: authorNote
+  label: Authornote
+  type: text
+  hidden: false
+  default: ''
+- name: personalNote
+  label: Personalnote
+  type: text
+  hidden: false
+  default: ''
+- name: totalTime
+  label: Totaltime
+  type: text
+  hidden: false
+  default: ''
+- name: prepTime
+  label: Preptime
+  type: text
+  hidden: false
+  default: ''
+- name: handsoffTime
+  label: Handsofftime
+  type: text
+  hidden: false
+  default: ''
+- name: cookTime
+  label: Cooktime
+  type: text
+  hidden: false
+  default: ''
+- name: chillTime
+  label: Chilltime
+  type: text
+  hidden: false
+  default: ''
+- name: assemblyTime
+  label: Assemblytime
+  type: text
+  hidden: false
+  default: ''
+- name: reheatTime
+  label: Reheattime
+  type: text
+  hidden: false
+  default: ''
+- name: ingredients
+  label: Ingredients
+  type: textarea
+  hidden: false
+  default: ''
